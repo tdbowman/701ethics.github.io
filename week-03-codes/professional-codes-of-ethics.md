@@ -39,8 +39,8 @@ Annotate everything in **Perusall**. The Block 1 scenario, *The Censorship Crisi
 | Reading | Source | Notes |
 |---------|--------|-------|
 | [IFLA code of ethics for librarians and other information workers (full version)](https://www.ifla.org/g/faife/professional-codes-of-ethics-for-librarians/) 🗂️ | IFLA (2012) | It is the global counterweight to the American documents and the clearest delivery of Objective O3. |
-| [ALA code of ethics](https://www.ala.org/tools/ethics) 🗂️ | ALA (2021) | This is the document you will be held to professionally in the United States, it is the shortest text in the block, and it contains the specific conflict the Block 1 scenario is built to surface. |
-| [Copyright: An interpretation of the Code of Ethics](https://www.ala.org/tools/ethics/copyright) 🗂️ | ALA (2025) | It is the only Block 1 reading that shows a code being applied rather than stated, and it bridges the abstract commitments of the two codes to the licensing and access problems of Blocks 2 and 4. |
+| [ALA code of ethics](https://www.ala.org/tools/ethics) 🗂️ | ALA (2021) | You will be held to this document professionally in the United States. |
+| [Copyright: An interpretation of the Code of Ethics](https://www.ala.org/tools/ethics/copyright) 🗂️ | ALA (2025) | Nowhere else in Block 1 do you watch a code being applied rather than stated, and this one bridges the abstract commitments of the two codes to the licensing and access problems of Blocks 2 and 4. |
 
 🗂️ = the PDF is already in the course project folder. See [References](../references.md) for full APA citations.
 
@@ -65,7 +65,7 @@ Labor Day falls Monday, September 7. The Block 1 immersive scenario, "The Censor
 
 ## Sections
 
-1. **[The Readings](the-readings.md)** — what each assigned text argues, and why it sits in this week
-2. **[Concepts & Questions](concepts-and-questions.md)** — key terms, annotation prompts, and how the week connects forward
+1. **[The Readings](the-readings.md)**: what each assigned text argues, and why it sits in this week
+2. **[Concepts & Questions](concepts-and-questions.md)**: key terms, annotation prompts, and how the week connects forward
 
 Start with **[The Readings](the-readings.md)**.

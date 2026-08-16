@@ -4,15 +4,15 @@
 
 ---
 
-> <span style="font-size: 150%;">"Librarians and other information workers are strictly committed to neutrality and an unbiased stance regarding collection, access and service. Neutrality results in the most balanced collection and the most balanced access to information achievable." (IFLA Code of Ethics, full version, Clause 5) ---</span>
+> <span style="font-size: 150%;">"Librarians and other information workers are strictly committed to neutrality and an unbiased stance regarding collection, access and service. Neutrality results in the most balanced collection and the most balanced access to information achievable."</span>
 
 ---
 
 ## 🎯 In This Section
 
-- **IFLA (2012)** — IFLA code of ethics for librarians and other information workers (full version)
-- **ALA (2021)** — ALA code of ethics
-- **ALA (2025)** — Copyright: An interpretation of the Code of Ethics
+- **IFLA (2012)**: IFLA code of ethics for librarians and other information workers (full version)
+- **ALA (2021)**: ALA code of ethics
+- **ALA (2025)**: Copyright: An interpretation of the Code of Ethics
 
 Each entry gives you the full citation, where to find it, what the text actually argues, and why it sits in this week. Read the entry, then read the text. Not the other way around.
 
@@ -61,7 +61,7 @@ The nine: highest level of service through equitable policies and "accurate, unb
 The ninth rewards close reading, and not only because it is newest. Its verbs are active and institutional: recognize, dismantle, confront, enhance, advance. Its final clause names "allocation of resources and spaces," meaning budgets and rooms, not sentiments. It applies to "profession, and associations," making ALA itself an object of the principle. Read against Knox, it is best understood not as a departure from intellectual freedom but as codification of what the profession had been arguing about since at least 2018. Read Principle 1's "accurate, unbiased, and courteous responses" alongside Principle 7's separation of conviction from duty: these are ALA's version of what IFLA calls neutrality, but ALA locates the requirement at the level of the individual worker's conduct toward users, not the institution's stance toward the world. That is a defensible reconciliation of Principles 7 and 9, and one you should be able to say out loud.
 
 :::{tip} Why it's here
-This is the document you will be held to professionally in the United States, it is the shortest text in the block, and it contains the specific conflict the Block 1 scenario is built to surface. Its brevity is deceptive: nine sentences that took eighty-two years and four amendments to reach.
+You will be held to this document professionally in the United States. It is also the shortest text in the block, and it contains the specific conflict the Block 1 scenario is built to surface. Its brevity is deceptive: nine sentences that took eighty-two years and four amendments to reach.
 :::
 
 > "We affirm the inherent dignity and rights of every person. We work to recognize and dismantle systemic and individual biases; to confront inequity and oppression; to enhance diversity and inclusion; and to advance racial and social justice in our libraries, communities, profession, and associations through awareness, advocacy, education, collaboration, services, and allocation of resources and spaces." (ALA Code of Ethics, Principle 9, adopted June 29, 2021)
@@ -87,7 +87,7 @@ It sets out the framework plainly: exclusive rights to reproduce, create derivat
 The duties it derives are more demanding than they first appear. Institutions must maintain policies aligned with ethical duties, mission, and law, and ensure staff know the copyright rules affecting their services. Workers must stay current, analyze fair use scenarios "with good judgment and strategies to reduce risk," do outreach, and provide information about the law while avoiding legal advice. Two duties deserve special attention. Workers "should be able to explain to users any restrictions on how they can use content based on digital-licensing agreements that may exceed those covered by copyright law," obliging you to tell patrons where your license is more restrictive than the statute. And "if there is an unfair balance between the rights holders and the public's access to information, library workers should speak up," engaging rights holders and legislators. Advocacy is framed as an ethical requirement, not an option. The June 30, 2025 revision is itself an object lesson: an Interpretation adopted in 2014, amended in 2019 and again in 2025, while Principle 4 has not changed a word.
 
 :::{tip} Why it's here
-It is the only Block 1 reading that shows a code being *applied* rather than stated, and it bridges the abstract commitments of the two codes to the licensing and access problems of Blocks 2 and 4. It also completes the argument the Manifesto opened in Week 1 about digital content on reasonable terms.
+Nowhere else in Block 1 do you watch a code being *applied* rather than stated, and this one bridges the abstract commitments of the two codes to the licensing and access problems of Blocks 2 and 4. It also completes the argument the Manifesto opened in Week 1 about digital content on reasonable terms.
 :::
 
 > "Libraries have both the opportunity and the duty to maintain this balance." (ALA, *Copyright: An Interpretation of the Code of Ethics*, amended June 30, 2025)

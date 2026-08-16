@@ -13,7 +13,7 @@ thumbnail: images/block-5-banner.png
 
 Your capstone report and synthesis form are due Sunday, December 6. Plan accordingly. These readings are short enough to do properly alongside the capstone, and one of them will change how you think about what the capstone is.
 
-Preservation operates on a timescale nobody's career can span, and that produces a particular kind of ethics. When Rosenthal asks how many copies, in storage systems of what reliability, you need for a given probability that data survives, he is asking a question that looks like engineering and turns out to be epistemology. His answer is that you cannot know — not that the answer is expensive or hard to compute, but that it is unknowable with any evidence an organization could afford to gather. That conclusion, reached by arithmetic rather than hand-wringing, is the most bracing thing you will read all term.
+Preservation operates on a timescale nobody's career can span, and that produces a particular kind of ethics. When Rosenthal asks how many copies, in storage systems of what reliability, you need for a given probability that data survives, he is asking a question that looks like engineering and turns out to be epistemology. His answer is that you cannot know. The obstacle is not expense or computational difficulty. No evidence an organization could afford to gather would settle the question. That conclusion, reached by arithmetic rather than hand-wringing, is the most bracing thing you will read all term.
 
 ### 🎯 What You'll Learn
 
@@ -40,7 +40,7 @@ Annotate everything in **Perusall**. The Block 5 scenario, *Ethics Journey Capst
 |---------|--------|-------|
 | [AI ready: How to prepare archives for artificial intelligence, improve discoverability, and enhance access](https://doi.org/10.1080/23257962.2026.2675937) | Colavizza & Jaillant (2026), *Archives and Records: The Journal of the Archives and Records Association* | This connects Block 4's AI ethics to Block 5's stewardship through the least glamorous and most consequential channel: description. |
 | [Keeping bits safe: How hard can it be](https://doi.org/10.1145/1839676.1839692) 🗂️ | Rosenthal (2010), *Communications of the ACM* | Because it models intellectual honesty about the limits of one's own field, written by someone who spent a decade building preservation systems. |
-| [Empowering immigrant library users through personal data literacy programming in public libraries](https://muse.jhu.edu/issue/56412) | Park & Aghassibake (2026), *Library Trends* | Because it prevents the preservation week from becoming a week about objects, and because it connects directly to Block 2's privacy work and Block 3's equity work —… |
+| [Empowering immigrant library users through personal data literacy programming in public libraries](https://muse.jhu.edu/issue/56412) | Park & Aghassibake (2026), *Library Trends* | Because it prevents the preservation week from becoming a week about objects, and because it connects directly to Block 2's privacy work and Block 3's equity work… |
 
 🗂️ = the PDF is already in the course project folder. See [References](../references.md) for full APA citations.
 
@@ -61,7 +61,7 @@ Annotate everything in **Perusall**. The Block 5 scenario, *Ethics Journey Capst
 
 ## Sections
 
-1. **[The Readings](the-readings.md)** — what each assigned text argues, and why it sits in this week
-2. **[Concepts & Questions](concepts-and-questions.md)** — key terms, annotation prompts, and how the week connects forward
+1. **[The Readings](the-readings.md)**: what each assigned text argues, and why it sits in this week
+2. **[Concepts & Questions](concepts-and-questions.md)**: key terms, annotation prompts, and how the week connects forward
 
 Start with **[The Readings](the-readings.md)**.

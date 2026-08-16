@@ -11,7 +11,7 @@ thumbnail: images/block-2-banner.png
 
 *The profession's most confidently stated value, meeting the conditions that make it hardest to keep.*
 
-You are entering the week where the profession's most confidently stated value meets the conditions that make it hardest to keep. Every code you read in Block 1 says libraries protect privacy — Article VII of the Library Bill of Rights, Article III of the ALA Code of Ethics, the IFLA code. This week asks the harder question: protect it from whom, under what definition, and with what leverage, when the systems that deliver library service are not owned by the library and the people whose privacy is at stake often do not want the friction that protection requires.
+You are entering the week where the profession's most confidently stated value meets the conditions that make it hardest to keep. Every code you read in Block 1 says libraries protect privacy: Article VII of the Library Bill of Rights, Article III of the ALA Code of Ethics, the IFLA code. This week asks the harder question: protect it from whom, under what definition, and with what actual power, when the systems that deliver library service are not owned by the library and the people whose privacy is at stake often do not want the friction that protection requires.
 
 The five texts occupy three registers, and the differences are the point. The two ALA documents are *normative*: what libraries should do, in the imperative, with citations to statute and case law. Gstrein and Beaulieu are *conceptual*: they refuse to treat privacy as one thing, mapping six distinct legal and emerging approaches, each protecting something different and failing differently. Ocks and Salubi, and Chin and colleagues, are *empirical*: one synthesizes a decade of research on 4IR technologies in libraries against a national data-protection statute; the other reports what thirty-three library IT professionals say is actually going wrong.
 
@@ -25,7 +25,7 @@ The five texts occupy three registers, and the differences are the point. The tw
 ### 🧠 Big Questions to Consider
 
 - If privacy is a right held by individuals but datafication produces its harms at the level of groups and inferences, what exactly is a library protecting when it protects "patron privacy"?
-- Whose privacy expectation governs — the patron who wants convenience, the profession that has committed to confidentiality, or the vendor whose defaults were set elsewhere?
+- Whose privacy expectation governs? The patron wants convenience, the profession has committed to confidentiality, and the vendor set its defaults elsewhere.
 - When a library's stated privacy policy and its daily practice diverge, is that a failure of policy, of training, of funding, or of the policy's realism?
 
 ---
@@ -63,7 +63,7 @@ Annotate everything in **Perusall**. The Block 2 scenario, *Data Ethics Simulati
 
 ## Sections
 
-1. **[The Readings](the-readings.md)** — what each assigned text argues, and why it sits in this week
-2. **[Concepts & Questions](concepts-and-questions.md)** — key terms, annotation prompts, and how the week connects forward
+1. **[The Readings](the-readings.md)**: what each assigned text argues, and why it sits in this week
+2. **[Concepts & Questions](concepts-and-questions.md)**: key terms, annotation prompts, and how the week connects forward
 
 Start with **[The Readings](the-readings.md)**.

@@ -1,6 +1,6 @@
 # References 📑
 
-The full Fall 2026 reading list in APA 7, by block and week. Entries marked 🗂️ are already in the course project folder as PDFs; the rest are open access or reached through Perusall. Items flagged ⚠️ need verification before you cite them — see [Editorial Notes](editorial-notes.md).
+The full Fall 2026 reading list in APA 7, by block and week. Entries marked 🗂️ are already in the course project folder as PDFs; the rest are open access or reached through Perusall. Items flagged ⚠️ need verification before you cite them. See [Editorial Notes](editorial-notes.md).
 
 ---
 

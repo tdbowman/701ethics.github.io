@@ -46,10 +46,10 @@ These are written for **Perusall**. Each one points at something specific and ea
 
 Optional, and genuinely optional. These are also good places to find a final-essay angle.
 
-- Robinson, L. (2009). Information science: Communication chain and domain analysis. *Journal of Documentation, 65*(4), 578–591. https://doi.org/10.1108/00220410910970267 — The source article behind the framework, with the argument rather than the summary.
-- Gopal, H. D. (2024). Concept of library science. *International Journal of Research in Library Science, 10*(3), 116–124. https://doi.org/10.26761/IJRLS.10.3.2024.1780 — In the project as `GopalConcept_of_Library_Science.pdf`. A non-Western institutional history (Nalanda, Ranganathan, the Baroda movement, UNESCO's 1951 Delhi Public Library pilot) that decenters Hepler and Horalek Ch. 2.
-- Stanford Encyclopedia of Philosophy, "Information": https://plato.stanford.edu/entries/information/ — For anyone who found the data-information-knowledge ladder too tidy.
-- *In the Library with the Lead Pipe*: https://www.inthelibrarywiththeleadpipe.org/ — Open access, peer reviewed, consistently willing to argue with the profession's official self-description. Browse it now; you will cite it later. ---
+- Robinson, L. (2009). Information science: Communication chain and domain analysis. *Journal of Documentation, 65*(4), 578–591. https://doi.org/10.1108/00220410910970267. The source article behind the framework, with the argument rather than the summary.
+- Gopal, H. D. (2024). Concept of library science. *International Journal of Research in Library Science, 10*(3), 116–124. https://doi.org/10.26761/IJRLS.10.3.2024.1780. In the project as `GopalConcept_of_Library_Science.pdf`. A non-Western institutional history (Nalanda, Ranganathan, the Baroda movement, UNESCO's 1951 Delhi Public Library pilot) that decenters Hepler and Horalek Ch. 2.
+- Stanford Encyclopedia of Philosophy, "Information": https://plato.stanford.edu/entries/information/ (for anyone who found the data-information-knowledge ladder too tidy).
+- *In the Library with the Lead Pipe*: https://www.inthelibrarywiththeleadpipe.org/. Open access, peer reviewed, consistently willing to argue with the profession's official self-description. Browse it now; you will cite it later. ---
 
 ---
 

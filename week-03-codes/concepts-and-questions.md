@@ -49,11 +49,11 @@ These are written for **Perusall**. Each one points at something specific and ea
 
 Optional, and genuinely optional. These are also good places to find a final-essay angle.
 
-- ALA, "Interpretations of the Library Bill of Rights": https://www.ala.org/advocacy/intfreedom/librarybill/interpretations — Skim the titles to see where the profession found seven articles insufficient; each Interpretation marks a real dispute.
-- *International Review of Information Ethics* (open access): https://informationethics.ca/index.php/irie — The main peer-reviewed venue for information ethics as a field, with strong non-U.S. representation.
-- Foskett, D. J. (1962). *The creed of a librarian: No politics, no religion, no morals*. Library Association. — The origin of the neutrality doctrine Knox traces, read with her caveat that Foskett described the reference interview.
-- Mill, J. S. (1859). *On liberty*. — The four arguments Knox summarizes are the backbone of both codes' anti-censorship clauses. Public domain, and shorter than you expect.
-- U.S. Copyright Office, "Fair Use Index": https://www.copyright.gov/fair-use/ — Searchable summaries of actual fair use decisions, worth more to your judgment than any four-factor checklist.
+- ALA, "Interpretations of the Library Bill of Rights": https://www.ala.org/advocacy/intfreedom/librarybill/interpretations. Skim the titles to see where the profession found seven articles insufficient; each Interpretation marks a real dispute.
+- *International Review of Information Ethics* (open access): https://informationethics.ca/index.php/irie. The main peer-reviewed venue for information ethics as a field, with strong non-U.S. representation.
+- Foskett, D. J. (1962). *The creed of a librarian: No politics, no religion, no morals*. Library Association. The origin of the neutrality doctrine Knox traces, read with her caveat that Foskett described the reference interview.
+- Mill, J. S. (1859). *On liberty*. The four arguments Knox summarizes are the backbone of both codes' anti-censorship clauses. Public domain, and shorter than you expect.
+- U.S. Copyright Office, "Fair Use Index": https://www.copyright.gov/fair-use/. Searchable summaries of actual fair use decisions, worth more to your judgment than any four-factor checklist.
 
 ---
 

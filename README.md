@@ -1,4 +1,4 @@
-# LIS 701: Core Values, Ethics & Issues — Online Textbook
+# LIS 701 Online Textbook: Core Values, Ethics & Issues
 
 Open online textbook for **LIS 701 Core Values, Ethics, and Issues in the Library and Information Profession** at Dominican University's School of Information Studies (Fall 2026), by Timothy D. Bowman, Ph.D.
 
@@ -26,14 +26,14 @@ Push to `main`; the GitHub Actions workflow builds and deploys to GitHub Pages a
 
 ## Structure
 
-- `myst.yml` — site config and table of contents
-- `intro.md`, `about-this-book.md`, `how-to-use.md`, `assessment-and-timeline.md` — front matter
-- `week-NN-*/` — one folder per course week: an overview page, `the-readings.md`, and `concepts-and-questions.md`
-- `capstone/` — the final essay chapter, *Arguing with the Algorithm*
-- `glossary.md`, `references.md`, `editorial-notes.md`, `course-wrapup.md` — resources and wrap-up
+- `myst.yml`: site config and table of contents
+- `intro.md`, `about-this-book.md`, `how-to-use.md`, `assessment-and-timeline.md`: front matter
+- `week-NN-*/`: one folder per course week: an overview page, `the-readings.md`, and `concepts-and-questions.md`
+- `capstone/`: the final essay chapter, *Arguing with the Algorithm*
+- `glossary.md`, `references.md`, `editorial-notes.md`, `course-wrapup.md`: resources and wrap-up
 
 ## Status
 
 Fall 2026 edition: 16 weeks plus the capstone, 63 readings, 161 glossary terms.
 
-Five reading-list items are still unresolved and are flagged in the book itself — see [`editorial-notes.md`](editorial-notes.md). Update those citations, then rebuild.
+Five reading-list items are still unresolved and are flagged in the book itself. See [`editorial-notes.md`](editorial-notes.md). Update those citations, then rebuild.

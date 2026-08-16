@@ -12,7 +12,7 @@
 | **Personally identifiable information (PII)** | Data that alone or combined can identify, contact, or locate a person; in ALA policy since 1991, and per the Q&A capable of assembling "a dossier of sorts, though crude and often inaccurate." |
 | **Chilling effect** | Users who suspect monitoring alter what they seek; the harm that makes privacy instrumentally necessary to intellectual freedom (both ALA documents; Ocks & Salubi). |
 | **Data minimization, purpose limitation, storage limitation** | The three GDPR-derived principles adopted by name in the 2025 ALA interpretation: collect only what a disclosed purpose requires, use it only for that purpose, keep it only as long as needed. |
-| **Datafication** | Gstrein and Beaulieu's layered practice of rendering objects, relations, and interactions as data: community, forms of care, capacities, data — not reducible to any one technology. |
+| **Datafication** | Gstrein and Beaulieu's layered practice of rendering objects, relations, and interactions as data (community, forms of care, capacities, data), not reducible to any one technology. |
 | **Contextual integrity** | Nissenbaum's alternative to notice-and-choice: privacy is preserved when flows conform to legitimate contextual norms, specified by subject, sender, recipient, information type, transmission principle (Gstrein & Beaulieu, §3.2.2). |
 | **Group privacy** | The claim that data harms increasingly attach to algorithmically constructed categories rather than individuals, so rights may need articulating at group level (§3.2.3). |
 | **Technological gentrification** | Gstrein and Beaulieu's term for environments so saturated with monitoring that individual refusal becomes meaningless. |
@@ -33,14 +33,14 @@ These are written for **Perusall**. Each one points at something specific and ea
 4. Ocks and Salubi report 44.6% of sampled public libraries had a data privacy policy online; Chin et al. report most participants found the ALA Privacy Checklist "not implementable." Annotate the passage that best explains the gap, and say whether the fix is drafting, funding, or enforcement.
 5. Chin et al.'s participants describe following privacy policy "flexibly" for patrons they know personally. Mark that passage. Ethical failure, defensible professional judgment, or evidence the policy was written for a library that does not exist?
 6. The Q&A says FERPA "permits disclosure when state library confidentiality statutes and professional ethics would otherwise prohibit" it, but does not require it. What does a school or academic librarian do with that gap, and what would you need in writing before the request arrives?
-7. Both ALA documents route law-enforcement requests through counsel and court orders; Gstrein and Beaulieu note that in *Carpenter* the records at issue were generated for billing. What operational records in your future workplace are the equivalent — collected for one purpose, evidentiary in another?
+7. Both ALA documents route law-enforcement requests through counsel and court orders; Gstrein and Beaulieu note that in *Carpenter* the records at issue were generated for billing. What operational records in your future workplace are the equivalent, collected for one purpose and evidentiary in another?
 
 ---
 
 ## 🔗 Connections
 
-- **Scenario:** The simulation's law-enforcement branch is scored against the interpretation's Law Enforcement section and Q&A Question 26 — consult administration and counsel, insist on a court order from a court of competent jurisdiction in proper form, retrieve the specified records yourself rather than granting access, preserve rather than volunteer. The vendor branch is scored against Library Vendors (retained data ownership, audit rights, confidentiality clauses, NISO-conformant public vendor policies), and Chin et al. tells you which of those a real IT department can verify. The community-demands branch is where Ocks and Salubi's attitude data and Chin et al.'s convenience findings matter: patrons will ask you to trade their privacy away, and the simulation scores whether you build an opt-in rather than an opt-out.
-- **Final essay:** For Part 1 of "Arguing with the Algorithm," Gstrein and Beaulieu are the sharpest instrument in the course — their argument that inference-based harms escape individual-consent frameworks is exactly the objection to make against a system that profiles you without ever identifying you. For Part 2, the ALA interpretation's operational language (default-off, opt-in, purpose limitation) converts critique into actionable commitment.
+- **Scenario:** The simulation's law-enforcement branch is scored against the interpretation's Law Enforcement section and Q&A Question 26: consult administration and counsel, insist on a court order from a court of competent jurisdiction in proper form, retrieve the specified records yourself rather than granting access, preserve rather than volunteer. The vendor branch is scored against Library Vendors (retained data ownership, audit rights, confidentiality clauses, NISO-conformant public vendor policies), and Chin et al. tells you which of those a real IT department can verify. The community-demands branch is where Ocks and Salubi's attitude data and Chin et al.'s convenience findings matter: patrons will ask you to trade their privacy away, and the simulation scores whether you build an opt-in rather than an opt-out.
+- **Final essay:** For Part 1 of "Arguing with the Algorithm," Gstrein and Beaulieu are the sharpest instrument in the course. Their argument that inference-based harms escape individual-consent frameworks is exactly the objection to make against a system that profiles you without ever identifying you. For Part 2, the ALA interpretation's operational language (default-off, opt-in, purpose limitation) converts critique into actionable commitment.
 - **Threads forward:** Week 5 makes the vendor and analytics problems this week gestures at into the object of study. Block 4's AI readings pick up the inference and group-harm arguments. Block 5 returns to the Chin et al. gap between what you believe and what your institution funds.
 
 ---
@@ -49,11 +49,11 @@ These are written for **Perusall**. Each one points at something specific and ea
 
 Optional, and genuinely optional. These are also good places to find a final-essay angle.
 
-- ALA **Privacy Field Guides** and the Library Privacy Guidelines and Checklists (ala.org/privacy) — the working documents Chin et al.'s participants found aspirational; judge that verdict yourself.
-- **Library Freedom Project** (libraryfreedom.org) — practitioner training on threat modeling and privacy tooling; its director sat on the advisory board for the Chin et al. study.
-- **Digital Library Federation, Privacy and Ethics in Technology working group** (wiki.diglib.org) — vendor-assessment tools, privacy-by-design guidance, and community practice.
-- Nissenbaum, H. (2019). Contextual integrity up and down the data food chain. *Theoretical Inquiries in Law, 20*(1), 221–256. https://doi.org/10.1515/til-2019-0008 — the primary statement Gstrein and Beaulieu summarize in two pages.
-- **Surveillance & Society** (ojs.library.queensu.ca/index.php/surveillance-and-society) — open access; the home venue for the group-privacy and surveillance-capitalism arguments. ---
+- ALA **Privacy Field Guides** and the Library Privacy Guidelines and Checklists (ala.org/privacy). The working documents Chin et al.'s participants found aspirational; judge that verdict yourself.
+- **Library Freedom Project** (libraryfreedom.org) offers practitioner training on threat modeling and privacy tooling; its director sat on the advisory board for the Chin et al. study.
+- **Digital Library Federation, Privacy and Ethics in Technology working group** (wiki.diglib.org): vendor-assessment tools, privacy-by-design guidance, and community practice.
+- Nissenbaum, H. (2019). Contextual integrity up and down the data food chain. *Theoretical Inquiries in Law, 20*(1), 221–256. https://doi.org/10.1515/til-2019-0008. The primary statement Gstrein and Beaulieu summarize in two pages.
+- **Surveillance & Society** (ojs.library.queensu.ca/index.php/surveillance-and-society) is open access, and the home venue for the group-privacy and surveillance-capitalism arguments. ---
 
 ---
 

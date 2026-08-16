@@ -38,9 +38,9 @@ These are written for **Perusall**. Each one points at something specific and ea
 
 ## 🔗 Connections
 
-- **Scenario:** The capstone will hand you a composite score, dimension scores, and a philosophy label. The IFLA Guidelines give you the frame for receiving that: it is a self-assessment instrument, and Varlejs has already said self-assessment "is subjective and does not come with feedback" and depends on the user's ability to recognize gaps (§1.2.1). Before you upload your JSON files, decide what you would count as a *useful* result — one that would actually change what you do next — and write it down. That prediction is evidence in your essay.
-- **Final essay:** Week 13 supplies the leadership frame for Part 2. Your commitments should read like entries in a personal learning plan — specific, with a named competency gap, a named learning resource, and a way you would know you had closed it. UNESCO's human oversight principle gives you the strongest single lever for Part 1: if an AI system can never replace ultimate human responsibility and accountability, then a report assigning you a philosophy label has not thereby determined your philosophy, and you can say so with a citation behind you.
-- **Threads back:** This closes the loop on Block 1. The professional philosophy you drafted there was a statement of belief with no infrastructure attached. Week 13 asks what it would take — in hours, dollars, associations, and political advocacy — to still hold it in a decade.
+- **Scenario:** The capstone will hand you a composite score, dimension scores, and a philosophy label. The IFLA Guidelines give you the frame for receiving that: it is a self-assessment instrument, and Varlejs has already said self-assessment "is subjective and does not come with feedback" and depends on the user's ability to recognize gaps (§1.2.1). Before you upload your JSON files, decide what you would count as a *useful* result (one that would actually change what you do next) and write it down. That prediction is evidence in your essay.
+- **Final essay:** Week 13 supplies the leadership frame for Part 2. Your commitments should read like entries in a personal learning plan: specific, with a named competency gap, a named learning resource, and a way you would know you had closed it. UNESCO's human oversight principle gives you the strongest single lever for Part 1: if an AI system can never replace ultimate human responsibility and accountability, then a report assigning you a philosophy label has not thereby determined your philosophy, and you can say so with a citation behind you.
+- **Threads back:** This closes the loop on Block 1. The professional philosophy you drafted there was a statement of belief with no infrastructure attached. Week 13 asks what it would take, in hours, dollars, associations, and political advocacy, to still hold it in a decade.
 
 ---
 
@@ -48,10 +48,10 @@ These are written for **Perusall**. Each one points at something specific and ea
 
 Optional, and genuinely optional. These are also good places to find a final-essay angle.
 
-- IFLA CPDWL Section, https://www.ifla.org/units/cpdwl/ — the standing committee that produces the Guidelines; its satellite conference proceedings are the deepest published record of research on continuing education in the field.
-- WebJunction, *Competency Index for the Library Field*, https://www.webjunction.org/ — the competency list the Guidelines recommend for self-assessment; use it to make your essay's commitments concrete.
-- UNESCO Ethics of AI portal, https://www.unesco.org/en/artificial-intelligence/recommendation-ethics — includes the Readiness Assessment Methodology and Ethical Impact Assessment tools promised in paragraph 49.
-- ALA Public Policy and Advocacy Office, https://www.ala.org/advocacy/ — where the IMLS FAQ lives alongside current federal funding tracking; check it for the state of play when you write. ---
+- IFLA CPDWL Section, https://www.ifla.org/units/cpdwl/. The standing committee that produces the Guidelines; its satellite conference proceedings are the deepest published record of research on continuing education in the field.
+- WebJunction, *Competency Index for the Library Field*, https://www.webjunction.org/. This is the competency list the Guidelines recommend for self-assessment; use it to make your essay's commitments concrete.
+- UNESCO Ethics of AI portal, https://www.unesco.org/en/artificial-intelligence/recommendation-ethics. Includes the Readiness Assessment Methodology and Ethical Impact Assessment tools promised in paragraph 49.
+- ALA Public Policy and Advocacy Office, https://www.ala.org/advocacy/. The IMLS FAQ lives here alongside current federal funding tracking; check it for the state of play when you write. ---
 
 ---
 

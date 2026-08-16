@@ -62,7 +62,7 @@ Annotate everything in **Perusall**. The Block 1 scenario, *The Censorship Crisi
 
 ## Sections
 
-1. **[The Readings](the-readings.md)** — what each assigned text argues, and why it sits in this week
-2. **[Concepts & Questions](concepts-and-questions.md)** — key terms, annotation prompts, and how the week connects forward
+1. **[The Readings](the-readings.md)**: what each assigned text argues, and why it sits in this week
+2. **[Concepts & Questions](concepts-and-questions.md)**: key terms, annotation prompts, and how the week connects forward
 
 Start with **[The Readings](the-readings.md)**.

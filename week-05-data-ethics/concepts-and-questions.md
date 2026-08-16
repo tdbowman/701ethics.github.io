@@ -27,7 +27,7 @@ All terms from all sixteen weeks are collected in the [Glossary](../glossary.md)
 
 These are written for **Perusall**. Each one points at something specific and each one is arguable, which is the point: annotation credit comes from advancing a conversation, not from summarizing a paragraph.
 
-1. Salo finds only 5 of 62 projects (8%) claimed concrete benefit to the library, and none gained money or staff. If the value proposition fails empirically, does the ethical question about learning analytics even arise — or does its failure make the breach worse?
+1. Salo finds only 5 of 62 projects (8%) claimed concrete benefit to the library, and none gained money or staff. If the value proposition fails empirically, does the ethical question about learning analytics even arise, or does its failure make the breach worse?
 2. Thirty-one of forty-six US projects mentioned no institutional ethics review; Salo notes publication outlets may not have requested or may have removed such mention. Which explanation is more damning, and what evidence in the article would settle it?
 3. NISO Principle 6 requires opt-in defaults. Find one system you have used as a library patron that violates this and one that honors it. What does the difference cost the library?
 4. Yoose and Shockey argue reading 200 third-party policies is beyond any library's capacity. Is the right response to demand fewer third parties, build shared consortial audit capacity, or stop treating vendor policy as the site of accountability? Defend one.
@@ -39,8 +39,8 @@ These are written for **Perusall**. Each one points at something specific and ea
 
 ## 🔗 Connections
 
-- **Scenario:** The vendor-negotiation branch of the simulation is this week's material almost line for line. NISO gives you the clauses to demand — transparency statement contents, encryption at rest and in motion, breach procedures, opt-in defaults, deletion rights, third-party audit availability. Yoose and Shockey tell you what to ask about that a standard license will not disclose: named third parties, unlisted trackers, whether policy links resolve. Salo governs the personalization branch: when the simulation offers richer analytics in exchange for identified patron data, her coding scheme is the checklist for what you are actually agreeing to collect, and her 8% benefit finding is the counterargument to "but we need it for assessment."
-- **Final essay:** This week supplies your strongest empirical evidence. Salo's audit instrument gives Part 1 a method rather than a mood. NISO's twelve principles are a menu of commitments already written in the imperative for Part 2 — pick the ones you could enforce from the position you expect to hold, and say why you are leaving the others.
+- **Scenario:** The vendor-negotiation branch of the simulation is this week's material almost line for line. NISO gives you the clauses to demand: transparency statement contents, encryption at rest and in motion, breach procedures, opt-in defaults, deletion rights, third-party audit availability. Yoose and Shockey tell you what to ask about that a standard license will not disclose: named third parties, unlisted trackers, whether policy links resolve. Salo governs the personalization branch: when the simulation offers richer analytics in exchange for identified patron data, her coding scheme is the checklist for what you are actually agreeing to collect, and her 8% benefit finding is the counterargument to "but we need it for assessment."
+- **Final essay:** This week supplies your strongest empirical evidence. Salo's audit instrument gives Part 1 a method rather than a mood. NISO's twelve principles are a menu of commitments already written in the imperative for Part 2. Pick the ones you could enforce from the position you expect to hold, and say why you are leaving the others.
 - **Threads forward:** Week 6 asks what all of this looks like for people whose only reliable computing is a library workstation or a phone. Block 4 takes inference and profiling into AI systems. Block 5 asks you to state a position on data you can defend to a hiring committee.
 
 ---
@@ -49,11 +49,11 @@ These are written for **Perusall**. Each one points at something specific and ea
 
 Optional, and genuinely optional. These are also good places to find a final-essay angle.
 
-- **LDH Consulting Services** (ldhconsultingservices.com) — Becky Yoose's practice; her *Data Privacy Best Practices Toolkit for Libraries* (with the Pacific Library Partnership, 2020) is the field's most practical implementation guidance.
-- **SPARC Privacy & Surveillance Community of Practice** (sparcopen.org) — where the vendor reports live, including the ScienceDirect analysis (Yoose, 2023, https://doi.org/10.5281/zenodo.10078609).
-- Briney, K. A. (2021). Data management practices in academic library learning analytics: A critical review. *Journal of Librarianship and Scholarly Communication.* — the smaller-sample predecessor Salo builds on.
-- **IFLA Statement on Privacy in the Library Environment** (2015, ifla.org) — the international counterpart, and notably more absolute: it tells library services to *reject* electronic surveillance rather than manage it.
-- **ALA Council Resolution on Behavioral Tracking** (2021) — defines behavioral tracking as collection "beyond operational needs," the phrase Salo shows the profession has not defined operationally. ---
+- **LDH Consulting Services** (ldhconsultingservices.com) is Becky Yoose's practice; her *Data Privacy Best Practices Toolkit for Libraries* (with the Pacific Library Partnership, 2020) is the field's most practical implementation guidance.
+- **SPARC Privacy & Surveillance Community of Practice** (sparcopen.org). This is where the vendor reports live, including the ScienceDirect analysis (Yoose, 2023, https://doi.org/10.5281/zenodo.10078609).
+- Briney, K. A. (2021). Data management practices in academic library learning analytics: A critical review. *Journal of Librarianship and Scholarly Communication.* The smaller-sample predecessor Salo builds on.
+- **IFLA Statement on Privacy in the Library Environment** (2015, ifla.org), the international counterpart, and notably more absolute: it tells library services to *reject* electronic surveillance rather than manage it.
+- **ALA Council Resolution on Behavioral Tracking** (2021) defines behavioral tracking as collection "beyond operational needs," the phrase Salo shows the profession has not defined operationally. ---
 
 ---
 

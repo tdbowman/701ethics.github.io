@@ -13,7 +13,7 @@ thumbnail: images/block-5-banner.png
 
 This is Thanksgiving week and the load is deliberately light: two readings, one of them short. Use the time. Together they are the best vocabulary-building week in the block, and that vocabulary is exactly what Part 1 of your final essay needs.
 
-Floridi and Cowls are solving a bureaucratic problem that turns out to be philosophical. By 2019 there were so many published sets of AI ethics principles that the volume threatened to become useless — either the sets agreed, making them redundant, or they disagreed, so nobody knew what "ethical AI" meant. Worse, proliferation creates what Floridi elsewhere calls a market for principles, where an organization shops for the framework demanding least of it. Their response is to analyze six high-profile documents and ask whether the 47 principles they contain converge. They find that they do, onto four principles borrowed from bioethics plus one that AI specifically requires.
+Floridi and Cowls are solving a bureaucratic problem that turns out to be philosophical. By 2019 there were so many published sets of AI ethics principles that the volume threatened to become useless. Either the sets agreed, making them redundant, or they disagreed, so nobody knew what "ethical AI" meant. Worse, proliferation creates what Floridi elsewhere calls a market for principles, where an organization shops for the framework demanding least of it. Their response is to analyze six high-profile documents and ask whether the 47 principles they contain converge. They find that they do, onto four principles borrowed from bioethics plus one that AI specifically requires.
 
 ### 🎯 What You'll Learn
 
@@ -24,7 +24,7 @@ Floridi and Cowls are solving a bureaucratic problem that turns out to be philos
 
 ### 🧠 Big Questions to Consider
 
-- Floridi and Cowls argue explicability is what makes the other four principles workable. Is that true, or is explicability doing something narrower — making them *auditable* rather than real?
+- Floridi and Cowls argue explicability is what makes the other four principles workable. Is that true, or is explicability doing something narrower, making them *auditable* rather than real?
 - The five principles were distilled from six documents produced in global initiatives and Western liberal democracies. What would change if the sample had included documents from South, East, and Southeast Asia, Africa, and Latin America?
 - If public libraries are early indicators of democratic strain, what obligations does that place on an individual librarian who did not sign up to be a canary?
 
@@ -60,7 +60,7 @@ Annotate everything in **Perusall**. The Block 5 scenario, *Ethics Journey Capst
 
 ## Sections
 
-1. **[The Readings](the-readings.md)** — what each assigned text argues, and why it sits in this week
-2. **[Concepts & Questions](concepts-and-questions.md)** — key terms, annotation prompts, and how the week connects forward
+1. **[The Readings](the-readings.md)**: what each assigned text argues, and why it sits in this week
+2. **[Concepts & Questions](concepts-and-questions.md)**: key terms, annotation prompts, and how the week connects forward
 
 Start with **[The Readings](the-readings.md)**.

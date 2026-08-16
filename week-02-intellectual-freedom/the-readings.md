@@ -4,16 +4,16 @@
 
 ---
 
-> <span style="font-size: 150%;">"Libraries should provide materials and information presenting all points of view on current and historical issues. Materials should not be proscribed or removed because of partisan or doctrinal disapproval." (Library Bill of Rights, Article II) ---</span>
+> <span style="font-size: 150%;">"Libraries should provide materials and information presenting all points of view on current and historical issues. Materials should not be proscribed or removed because of partisan or doctrinal disapproval."</span>
 
 ---
 
 ## 🎯 In This Section
 
-- **ALA (2019)** — Library Bill of Rights
-- **Knox (2024)** — Embodiment, endorsement, and policy: Considerations for intellectual freedom in the library
-- **Hepler & Horalek (2023)** — Introduction to library and information science
-- **Meehan et al. (2026)** — Facts & fiction: Stories stripped away by book bans
+- **ALA (2019)**: Library Bill of Rights
+- **Knox (2024)**: Embodiment, endorsement, and policy: Considerations for intellectual freedom in the library
+- **Hepler & Horalek (2023)**: Introduction to library and information science
+- **Meehan et al. (2026)**: Facts & fiction: Stories stripped away by book bans
 
 Each entry gives you the full citation, where to find it, what the text actually argues, and why it sits in this week. Read the entry, then read the text. Not the other way around.
 
@@ -25,11 +25,11 @@ Each entry gives you the full citation, where to find it, what the text actually
 
 > American Library Association. (2019). Library Bill of Rights. American Library Association. (Adopted June 19, 1939; amended 1944, 1948, 1961, 1967, 1980, and January 29, 2019)
 
-**Find it.** https://www.ala.org/advocacy/intfreedom/librarybill — Interpretations: https://www.ala.org/advocacy/intfreedom/librarybill/interpretations
+**Find it.** https://www.ala.org/advocacy/intfreedom/librarybill. Interpretations: https://www.ala.org/advocacy/intfreedom/librarybill/interpretations
 
 **In the course project.** `ALALibrary Bill of Rights.pdf`
 
-Seven articles. Article I requires resources for "the interest, information, and enlightenment of all people of the community" and forbids exclusion based on "the origin, background, or views of those contributing to their creation" — a provision about the author, not the content. Article II requires "all points of view on current and historical issues" and forbids removal for "partisan or doctrinal disapproval." Article III makes challenging censorship an affirmative duty. Article IV commits libraries to cooperate with others resisting abridgment of free expression. Article V protects users regardless of "origin, age, background, or views." Article VI requires equitable availability of meeting rooms and exhibit spaces "regardless of the beliefs or affiliations" of those requesting them. Article VII, added in 2019, establishes a right to privacy and confidentiality and obliges libraries to safeguard all library use data including personally identifiable information.
+Seven articles. Article I requires resources for "the interest, information, and enlightenment of all people of the community" and forbids exclusion based on "the origin, background, or views of those contributing to their creation" (a provision about the author, not the content). Article II requires "all points of view on current and historical issues" and forbids removal for "partisan or doctrinal disapproval." Article III makes challenging censorship an affirmative duty. Article IV commits libraries to cooperate with others resisting abridgment of free expression. Article V protects users regardless of "origin, age, background, or views." Article VI requires equitable availability of meeting rooms and exhibit spaces "regardless of the beliefs or affiliations" of those requesting them. Article VII, added in 2019, establishes a right to privacy and confidentiality and obliges libraries to safeguard all library use data including personally identifiable information.
 
 Two structural features matter more than any single article. The document is written almost entirely in terms of what libraries should *not* do, with Articles III and IV the exceptions imposing affirmative duties. And it concedes its own insufficiency: it acknowledges that "questions do arise concerning application of these principles to specific library practices" and directs readers to the Interpretations, which is where the profession does its actual reasoning and where you find the meeting room, programs and displays, and user-initiated exhibits documents Knox analyzes.
 
@@ -90,10 +90,6 @@ Chapter 14 argues that representation alone is insufficient and must be paired w
 :::{tip} Why it's here
 These chapters supply the practical scaffolding around Knox's theory: what a challenge process looks like, what fair use actually requires, how representation enters collection decisions. Chapters 13 and 14 do double duty, setting up Week 3's copyright Interpretation and Block 3's equity readings.
 :::
-
-> none
-
----
 
 ---
 

@@ -48,11 +48,11 @@ These are written for **Perusall**. Each one points at something specific and ea
 
 Optional, and genuinely optional. These are also good places to find a final-essay angle.
 
-- ALA Office for Intellectual Freedom, "Censorship by the Numbers" (https://www.ala.org/bbooks/censorship-numbers) and the Top 10 Most Challenged Books lists (https://www.ala.org/bbooks/frequentlychallengedbooks/top10) — The underlying data series; useful for checking a claim mid-scenario.
-- ALA, "Meeting Rooms: An Interpretation of the Library Bill of Rights" (January 29, 2019): https://www.ala.org/advocacy/intfreedom/librarybill/interpretations/meetingrooms — The document Knox's working group produced; read it after her account of how it was made.
-- Asheim, L. (1953). Not censorship but selection. *Wilson Library Bulletin, 28*(1), 63–67. — Seventy years old, still the most cited distinction in the field, readable in fifteen minutes.
-- Stanford Encyclopedia of Philosophy, "Freedom of Speech": https://plato.stanford.edu/entries/freedom-speech/ — The harm principle, the offense principle, and their critics: the background to Mill's arguments as Knox summarizes them.
-- Garnar, M., & Magi, T. (Eds.). (2021). *Intellectual freedom manual* (10th ed.). American Library Association. — Source of Knox's six essential policies, and the handbook you will actually use on the job. ---
+- ALA Office for Intellectual Freedom, "Censorship by the Numbers" (https://www.ala.org/bbooks/censorship-numbers) and the Top 10 Most Challenged Books lists (https://www.ala.org/bbooks/frequentlychallengedbooks/top10). The underlying data series, useful for checking a claim mid-scenario.
+- ALA, "Meeting Rooms: An Interpretation of the Library Bill of Rights" (January 29, 2019): https://www.ala.org/advocacy/intfreedom/librarybill/interpretations/meetingrooms. The document Knox's working group produced; read it after her account of how it was made.
+- Asheim, L. (1953). Not censorship but selection. *Wilson Library Bulletin, 28*(1), 63–67. Seventy years old, still the most cited distinction in the field, readable in fifteen minutes.
+- Stanford Encyclopedia of Philosophy, "Freedom of Speech": https://plato.stanford.edu/entries/freedom-speech/. Background to Mill's arguments as Knox summarizes them: the harm principle, the offense principle, and their critics.
+- Garnar, M., & Magi, T. (Eds.). (2021). *Intellectual freedom manual* (10th ed.). American Library Association. Source of Knox's six essential policies, and the handbook you will actually use on the job. ---
 
 ---
 

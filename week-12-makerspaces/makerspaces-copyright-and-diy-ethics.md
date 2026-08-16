@@ -13,7 +13,7 @@ thumbnail: images/block-4-banner.png
 
 The makerspace looks like a detour after two weeks of algorithms. It is the same problem with the abstraction removed.
 
-Every question Block 4 has asked — who decides what a tool is for, who bears the risk when it produces something harmful, who owns what comes out of a machine trained on other people's work — has a physical answer in a room with a 3D printer in it. When the University of Minnesota Libraries write that they "will not 3D print or otherwise fabricate any kind of part for use in actual functional weaponry," they are doing content moderation, and unlike a platform they do it at a desk, to a person's face, with a name attached. When Syracuse bans weapons, accessories, and replicas, and Maryland refuses projects containing "symbols or words that can be deemed offensive or inappropriate by members of the campus community," they draw intellectual-freedom lines that would be ferociously contested if the medium were a book.
+Every question Block 4 has asked has a physical answer in a room with a 3D printer in it: who decides what a tool is for, who bears the risk when it produces something harmful, who owns what comes out of a machine trained on other people's work. When the University of Minnesota Libraries write that they "will not 3D print or otherwise fabricate any kind of part for use in actual functional weaponry," they are doing content moderation, and unlike a platform they do it at a desk, to a person's face, with a name attached. When Syracuse bans weapons, accessories, and replicas, and Maryland refuses projects containing "symbols or words that can be deemed offensive or inappropriate by members of the campus community," they draw intellectual-freedom lines that would be ferociously contested if the medium were a book.
 
 ### 🎯 What You'll Learn
 
@@ -38,7 +38,7 @@ Annotate everything in **Perusall**. The Block 4 scenario, *AI Implementation De
 
 | Reading | Source | Notes |
 |---------|--------|-------|
-| [Making + learning in museums and libraries: A practitioner's guide and framework](https://www.imls.gov/sites/default/files/publications/documents/makinglearning-museumslibraries-practitionersguideframework.pdf) 🗂️ | Children's Museum of Pittsburgh & IMLS (2016) | It is the working design instrument for library makerspaces and the block's clearest example of a framework that shapes practice while claiming only to prompt reflection. |
+| [Making + learning in museums and libraries: A practitioner's guide and framework](https://www.imls.gov/sites/default/files/publications/documents/makinglearning-museumslibraries-practitionersguideframework.pdf) 🗂️ | Children's Museum of Pittsburgh & IMLS (2016) | This is the working design instrument for library makerspaces, and the block's clearest example of a framework that shapes practice while claiming only to prompt reflection. |
 | Re-making the library makerspace: Critical theories, reflections, and practices | Melo & Nichols (2020) | A block about emerging technology needs at least one text whose method is to interrogate the enthusiasm rather than manage it, and the makerspace is where "innovation" is most visibly a value claim wearing equipment. |
 | [https://research.dom.edu/innovationlab; University of Minnesota Libraries](https://research.dom.edu/c.php?g=1147226&p=10638398) | Library makerspace codes of conduct and use policies [primary source set]: Dominican University WeatherTech Innovation Lab (n.d.), *Makerspaces code of conduct* | You will write, apply, or be governed by documents exactly like these. |
 | [IFLA statement on copyright and artificial intelligence (AI)](https://www.ifla.org/news/realising-potential-supporting-users-ifla-statement-on-copyright-and-artificial-intelligence/) | IFLA (2025) | The block began with AI as an ethics problem and must end with it as a property problem. |
@@ -62,7 +62,7 @@ Annotate everything in **Perusall**. The Block 4 scenario, *AI Implementation De
 
 ## Sections
 
-1. **[The Readings](the-readings.md)** — what each assigned text argues, and why it sits in this week
-2. **[Concepts & Questions](concepts-and-questions.md)** — key terms, annotation prompts, and how the week connects forward
+1. **[The Readings](the-readings.md)**: what each assigned text argues, and why it sits in this week
+2. **[Concepts & Questions](concepts-and-questions.md)**: key terms, annotation prompts, and how the week connects forward
 
 Start with **[The Readings](the-readings.md)**.

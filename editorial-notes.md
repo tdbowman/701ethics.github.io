@@ -6,44 +6,44 @@ This book was rebuilt for Fall 2026 from the previous reading list plus the curr
 
 ## Items needing attention (5)
 
-**Cyrus (2026)** — [Week 5](week-05-data-ethics/the-readings.md)
+**Cyrus (2026)**, in [Week 5](week-05-data-ethics/the-readings.md)
 
 > Cyrus. (2026). [Title not established.]
 
 :::{warning} Citation unconfirmed
-NEW for Fall 2026 — STATUS: UNVERIFIED
+NEW for Fall 2026. STATUS: UNVERIFIED
 :::
 
-**Oladokun et al. (2026)** — [Week 11](week-11-automation/the-readings.md)
+**Oladokun et al. (2026)**, in [Week 11](week-11-automation/the-readings.md)
 
 > Oladokun, B. D., Maxwell, C. E., Umar, L., Alex-Nmecha, J. C., & Adigun, G. O. (2026). The rise of robots in libraries: Essential skills and knowledge for librarians in Industry 5.0. Information Services and Use, 46(3), 47–57. https://doi.org/10.1177/18758789261443981
 
 :::{warning} Verification note
-NEW for Fall 2026 — replaces Tella (2020) and Asemi, Ko & Nowkarizi (2021). Verified: title, five authors, journal, volume 46, issue 3, pages 47–57, DOI, publication dates. STATUS: contents partially unverified — the full text was not read in preparing this chapter; the account below derives from the published abstract and metadata. Read the article before citing specifics.
+NEW for Fall 2026. Replaces Tella (2020) and Asemi, Ko & Nowkarizi (2021). Verified: title, five authors, journal, volume 46, issue 3, pages 47–57, DOI, publication dates. STATUS: contents partially unverified. The full text was not read in preparing this chapter; the account below derives from the published abstract and metadata. Read the article before citing specifics.
 :::
 
-**Melo & Nichols (2020)** — [Week 12](week-12-makerspaces/the-readings.md)
+**Melo & Nichols (2020)**, in [Week 12](week-12-makerspaces/the-readings.md)
 
 > Melo, M., & Nichols, J. T. (Eds.). (2020). Re-making the library makerspace: Critical theories, reflections, and practices. Library Juice Press.
 
 :::{warning} Verification note
-NEW for Fall 2026 — replaces Fleming (2015) on OER/makerspaces. Verified: editors Maggie Melo and Jennifer T. Nichols, Library Juice Press, 2020, ix + 316 pp., ISBN-13 978-1-63400-081-9 (reviewed in Public Services Quarterly, 17(3)). Correction to the reconstructed list: this is a critical makerspace collection, not an OER text — the substitution changes the topic, not just the citation. STATUS: contents unverified — the volume was not read in preparing this chapter, so no chapter-level claims are made. Read the assigned chapters in Perusall; treat what follows as orientation only.
+NEW for Fall 2026. Replaces Fleming (2015) on OER/makerspaces. Verified: editors Maggie Melo and Jennifer T. Nichols, Library Juice Press, 2020, ix + 316 pp., ISBN-13 978-1-63400-081-9 (reviewed in Public Services Quarterly, 17(3)). Correction to the reconstructed list: this is a critical makerspace collection, not an OER text. The substitution changes the topic, not just the citation. STATUS: contents unverified. The volume was not read in preparing this chapter, so no chapter-level claims are made. Read the assigned chapters in Perusall; treat what follows as orientation only.
 :::
 
-**Rosenthal (2010)** — [Week 15](week-15-preservation/the-readings.md)
+**Rosenthal (2010)**, in [Week 15](week-15-preservation/the-readings.md)
 
 > Rosenthal, D. S. H. (2010). Keeping bits safe: How hard can it be? Communications of the ACM, 53(11), 47–55. https://doi.org/10.1145/1839676.1839692
 
 :::{warning} Verification note
-In the project: KeepingBitsSafe.pdf — Fallback. The Fall 2026 list called for Rosenthal (2025) as a replacement. STATUS: UNVERIFIED — I confirmed Rosenthal remains active and posted on archival storage in 2025 on DSHR's Blog, but could not confirm a 2025 publication functioning as a successor to this article. Use the 2010 text unless the instructor supplies a newer citation.
+In the project: KeepingBitsSafe.pdf. Fallback. The Fall 2026 list called for Rosenthal (2025) as a replacement. STATUS: UNVERIFIED. I confirmed Rosenthal remains active and posted on archival storage in 2025 on DSHR's Blog, but could not confirm a 2025 publication functioning as a successor to this article. Use the 2010 text unless the instructor supplies a newer citation.
 :::
 
-**Reyna (2025)** — [Week 16](week-16-futures/the-readings.md)
+**Reyna (2025)**, in [Week 16](week-16-futures/the-readings.md)
 
 > Reyna. (2025). [Title not confirmed.]
 
 :::{warning} Citation unconfirmed
-NEW for Fall 2026 — STATUS: UNVERIFIED
+NEW for Fall 2026. STATUS: UNVERIFIED
 :::
 
 ---
@@ -60,7 +60,7 @@ NEW for Fall 2026 — STATUS: UNVERIFIED
 | ACRL AI document | It is *AI Competencies for Academic Library Workers* (October 2025), not an AI literacy framework. |
 | Oladokun (2026) | **Five authors**, *Information Services and Use* 46(3), 47–57. |
 | Yoose (2024) | **Two authors**: Yoose & Shockey, published by SPARC. |
-| Ashiq | **2025**, not 2026 — *Information Development*, advance online publication, 21 July 2025. |
+| Ashiq | **2025**, not 2026. *Information Development*, advance online publication, 21 July 2025. |
 | Melo & Nichols (2020) | *Re-making the Library Makerspace* (Library Juice Press) is a **critical edited volume, not an OER text**. Replacing Fleming with it changes what Week 12 is about. |
 | Making + Learning framework | **2016** per the IMLS record, not 2017. |
 | Pew, January 2026 | A short read (McClain & Bishop, 8 Jan 2026), not a report; drawn from NPORS fielded Feb–Jun 2025, n = 5,022. |

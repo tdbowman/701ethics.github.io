@@ -39,7 +39,7 @@ Annotate everything in **Perusall**. The Block 1 scenario, *The Censorship Crisi
 | Reading | Source | Notes |
 |---------|--------|-------|
 | [IFLA-UNESCO public library manifesto 2022](https://www.ifla.org/public-library-manifesto/) 🗂️ | IFLA & UNESCO (2022) | This is the only Week 1 text that states values as obligations rather than describing them as facts, and the only one written to be quoted by practitioners under pressure. |
-| [The information science discipline](https://i-share-dom.primo.exlibrisgroup.com/permalink/01CARLI_DOM/4v6i5v/cdi_askewsholts_vlebooks_9781783305261) 🗂️ | Bawden & Robinson (2022), *Introduction to information science* | This is the only reading that gives you vocabulary for the field as a field: communication chain, domain analysis, field of study, the collection disciplines, GLAM. |
+| [The information science discipline](https://i-share-dom.primo.exlibrisgroup.com/permalink/01CARLI_DOM/4v6i5v/cdi_askewsholts_vlebooks_9781783305261) 🗂️ | Bawden & Robinson (2022), *Introduction to information science* | No other reading gives you vocabulary for the field as a field: communication chain, domain analysis, field of study, the collection disciplines, GLAM. |
 | [Introduction to library and information science](https://csi.pressbooks.pub/lis/) | Hepler & Horalek (2023) | The other readings are written by and for people who already know what a circulation desk is. |
 | [The state of America's libraries: A snapshot of 2025](https://www.ala.org/news/state-americas-libraries-report-2026) | ALA (2026) | This is your baseline for Weeks 2 and 3 and for the scenario. |
 
@@ -62,7 +62,7 @@ Annotate everything in **Perusall**. The Block 1 scenario, *The Censorship Crisi
 
 ## Sections
 
-1. **[The Readings](the-readings.md)** — what each assigned text argues, and why it sits in this week
-2. **[Concepts & Questions](concepts-and-questions.md)** — key terms, annotation prompts, and how the week connects forward
+1. **[The Readings](the-readings.md)**: what each assigned text argues, and why it sits in this week
+2. **[Concepts & Questions](concepts-and-questions.md)**: key terms, annotation prompts, and how the week connects forward
 
 Start with **[The Readings](the-readings.md)**.

@@ -22,7 +22,7 @@ Three things are worth carrying out of here:
 
 ## Where to Go Next
 
-- Keep the [Glossary](glossary.md) and [References](references.md) — the reading list is a starting bibliography for any LIS paper you write from here.
+- Keep the [Glossary](glossary.md) and [References](references.md). The reading list is a starting bibliography for any LIS paper you write from here.
 - The IFLA and ALA documents you read are updated regularly. Re-read the ones that matter to your job every couple of years; they change more than people expect.
 - Follow the open-access venues in the Going Deeper sections. *In the Library with the Lead Pipe*, *Journal of Radical Librarianship*, and the *International Review of Information Ethics* are free and will keep you current.
 

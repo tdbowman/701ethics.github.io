@@ -39,8 +39,8 @@ These are written for **Perusall**. Each one points at something specific and ea
 
 ## 🔗 Connections
 
-- **Scenario:** Your capstone has already produced a philosophy label for you. Baer gives you the tool to notice what that label wants you to feel about it — pleased, if it flatters you; corrected, if it does not; and in either case, receptive. Write down your first emotional reaction to your report before you write anything analytical. That reaction, examined rather than suppressed, is legitimate evidence in Part 1, and Baer is the citation that licenses treating it that way.
-- **Final essay:** Week 16 is the futures material for Part 2. A commitment only about this semester will not survive the conditions the ACRL report describes; a commitment that names a specific pressure from these documents — a defunded grant program, a vendor-integrated AI feature you did not choose, an accessibility standard now in force, the environmental cost of a system you use — and says what you will do when you meet it, will. The unresolved tension the essay requires is easiest to find here too: Baer and the two futures reports do not agree about whether adoption is a choice, and you need not pretend they do.
+- **Scenario:** Your capstone has already produced a philosophy label for you. Baer gives you the tool to notice what that label wants you to feel about it: pleased, if it flatters you; corrected, if it does not; and in either case, receptive. Write down your first emotional reaction to your report before you write anything analytical. That reaction, examined rather than suppressed, is legitimate evidence in Part 1, and Baer is the citation that licenses treating it that way.
+- **Final essay:** Week 16 is the futures material for Part 2. A commitment only about this semester will not survive the conditions the ACRL report describes; a commitment that names a specific pressure from these documents (a defunded grant program, a vendor-integrated AI feature you did not choose, an accessibility standard now in force, the environmental cost of a system you use) and says what you will do when you meet it, will. The unresolved tension the essay requires is easiest to find here too: Baer and the two futures reports do not agree about whether adoption is a choice, and you need not pretend they do.
 - **Threads back:** This closes the loop on the entire course. Block 1's philosophy, Block 2's privacy and access commitments, Block 3's equity framework, Block 4's AI scenarios, and Block 5's leadership, global, and preservation frames all have to appear in one document now. Reread your Block 1 philosophy statement this week before you write. The distance between it and what you would now write is one of the more interesting things you have to report.
 
 ---
@@ -49,10 +49,10 @@ These are written for **Perusall**. Each one points at something specific and ea
 
 Optional, and genuinely optional. These are also good places to find a final-essay angle.
 
-- *In the Library with the Lead Pipe*, https://www.inthelibrarywiththeleadpipe.org/ — open, peer-reviewed, volunteer-run; where much of the critical conversation Baer joins is happening, and a realistic place to publish early in your career.
-- IFLA Trend Report hub, https://www.ifla.org/trend-report/ — includes the 2024 literature review, survey results, and accompanying skills agenda, all more specific than the headline report.
-- ACRL Research Planning and Review Committee, https://www.ala.org/acrl/aboutacrl/directoryofleadership/committees/acr-reprc — back issues of Top Trends to 2010; reading two editions ten years apart is the fastest way to see how a profession's anxieties move.
-- Sano-Franchini, J., McIntyre, M., & Fernandes, M., *Refusing GenAI in Writing Studies: A Quickstart Guide*, https://refusinggenai.wordpress.com — the ten-premise document Baer draws on; short, open, directly usable. ---
+- *In the Library with the Lead Pipe*, https://www.inthelibrarywiththeleadpipe.org/. Open, peer-reviewed, volunteer-run; much of the critical conversation Baer joins is happening here, and it is a realistic place to publish early in your career.
+- IFLA Trend Report hub, https://www.ifla.org/trend-report/. Includes the 2024 literature review, survey results, and accompanying skills agenda, all more specific than the headline report.
+- ACRL Research Planning and Review Committee, https://www.ala.org/acrl/aboutacrl/directoryofleadership/committees/acr-reprc. Back issues of Top Trends to 2010; reading two editions ten years apart is the fastest way to see how a profession's anxieties move.
+- Sano-Franchini, J., McIntyre, M., & Fernandes, M., *Refusing GenAI in Writing Studies: A Quickstart Guide*, https://refusinggenai.wordpress.com. The ten-premise document Baer draws on; short, open, directly usable. ---
 
 ---
 

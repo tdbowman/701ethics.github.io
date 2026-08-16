@@ -25,11 +25,11 @@ Five scenarios, one per block. Each puts you in a role and makes you decide unde
 
 | Block | Scenario | Due |
 |-------|----------|-----|
-| 1 | **The Censorship Crisis** — you are a new director facing organized pressure over a title | Sun, Sep 13 |
-| 2 | **Data Ethics Simulation** — law enforcement requests, vendor negotiations, and a community that wants both privacy and convenience | Sun, Oct 4 |
-| 3 | **Building Inclusive Spaces** — the same services, experienced from the perspectives of patrons your systems were not built for | Sun, Oct 25 |
-| 4 | **AI Implementation Decision Tree** — deploying AI services, negotiating with a vendor, and pricing efficiency against your values | Sun, Nov 15 |
-| 5 | **Ethics Journey Capstone** — your Block 1–4 exports, integrated into one report | Sun, Dec 6 |
+| 1 | **The Censorship Crisis**: you are a new director facing organized pressure over a title | Sun, Sep 13 |
+| 2 | **Data Ethics Simulation**: law enforcement requests, vendor negotiations, and a community that wants both privacy and convenience | Sun, Oct 4 |
+| 3 | **Building Inclusive Spaces**: the same services, experienced from the perspectives of patrons your systems were not built for | Sun, Oct 25 |
+| 4 | **AI Implementation Decision Tree**: deploying AI services, negotiating with a vendor, and pricing efficiency against your values | Sun, Nov 15 |
+| 5 | **Ethics Journey Capstone**: your Block 1–4 exports, integrated into one report | Sun, Dec 6 |
 
 - Graded complete/incomplete against your reflections, and spot-checked
 - The **Block 2 simulation requires 75/100**; retries are unlimited, so retry it
@@ -75,7 +75,7 @@ Requirements: at least **four readings** from at least **two blocks**, including
 | 11 | Nov 2–8 | Automation, Robotics & Labor | Perusall |
 | 12 | Nov 9–15 | Makerspaces, Copyright & DIY Ethics | **Scenario 4 due Sun, Nov 15** |
 | 13 | Nov 16–22 | Ethical Leadership & Professional Development | Perusall |
-| 14 | Nov 23–29 | Global Digital Citizenship *(Thanksgiving — lighter load)* | Perusall |
+| 14 | Nov 23–29 | Global Digital Citizenship *(Thanksgiving, lighter load)* | Perusall |
 | 15 | Nov 30–Dec 6 | Digital Archives & Preservation | **Capstone report + synthesis form due Sun, Dec 6** |
 | 16 | Dec 7–12 | Professional Reflection & Future Vision | **Final essay due Sat, Dec 12** |
 
