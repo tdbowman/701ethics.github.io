@@ -1,0 +1,137 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 3f7a1c58-9b24-4e60-8d17-6c0b95e2701a
+  title: Core Values, Ethics & Issues in the Information Profession
+  description: >-
+    Open online textbook for LIS 701 Core Values, Ethics, and Issues in the
+    Library and Information Profession at Dominican University's School of
+    Information Studies. A reader's companion to the assigned texts: what each
+    one argues, why it sits where it sits, and how it feeds the semester's
+    immersive ethics scenarios.
+  keywords:
+    - library and information science
+    - information ethics
+    - intellectual freedom
+    - privacy
+    - social justice
+    - artificial intelligence
+    - textbook
+  authors:
+    - name: Timothy D. Bowman
+      affiliations:
+        - Dominican University
+  github: https://github.com/tdbowman/701ethics.github.io
+  copyright: '2026'
+  thumbnail: images/cover.png
+  exclude:
+    - README.md
+  exports:
+    - id: book-pdf
+      format: typst
+      output: exports/LIS701-Core-Values-Ethics.pdf
+      toc: myst.yml
+  downloads:
+    - file: exports/LIS701-Core-Values-Ethics.pdf
+      title: Download the full textbook (PDF)
+  toc:
+    - file: intro.md
+    - file: assessment-and-timeline.md
+    - title: Getting Started
+      children:
+        - file: about-this-book.md
+        - file: how-to-use.md
+    - title: 'Block 1: Foundations & Intellectual Freedom'
+      children:
+        - file: week-01-disciplines/information-disciplines-and-organizations.md
+          children:
+            - file: week-01-disciplines/the-readings.md
+            - file: week-01-disciplines/concepts-and-questions.md
+        - file: week-02-intellectual-freedom/intellectual-freedom-and-censorship.md
+          children:
+            - file: week-02-intellectual-freedom/the-readings.md
+            - file: week-02-intellectual-freedom/concepts-and-questions.md
+        - file: week-03-codes/professional-codes-of-ethics.md
+          children:
+            - file: week-03-codes/the-readings.md
+            - file: week-03-codes/concepts-and-questions.md
+    - title: 'Block 2: Privacy, Data Ethics & Digital Equity'
+      children:
+        - file: week-04-privacy/privacy-and-confidentiality.md
+          children:
+            - file: week-04-privacy/the-readings.md
+            - file: week-04-privacy/concepts-and-questions.md
+        - file: week-05-data-ethics/data-management-and-ethics.md
+          children:
+            - file: week-05-data-ethics/the-readings.md
+            - file: week-05-data-ethics/concepts-and-questions.md
+        - file: week-06-digital-divide/digital-divide-and-technology-access.md
+          children:
+            - file: week-06-digital-divide/the-readings.md
+            - file: week-06-digital-divide/concepts-and-questions.md
+    - title: 'Block 3: Diversity, Equity & Social Justice'
+      children:
+        - file: week-07-edib/diversity-equity-inclusion-and-belonging.md
+          children:
+            - file: week-07-edib/the-readings.md
+            - file: week-07-edib/concepts-and-questions.md
+        - file: week-08-social-justice/social-justice-knowledge-organization-and-advocacy.md
+          children:
+            - file: week-08-social-justice/the-readings.md
+            - file: week-08-social-justice/concepts-and-questions.md
+        - file: week-09-global/global-perspectives-and-information-poverty.md
+          children:
+            - file: week-09-global/the-readings.md
+            - file: week-09-global/concepts-and-questions.md
+    - title: 'Block 4: Emerging Technologies & Future Ethics'
+      children:
+        - file: week-10-ai-ethics/ai-and-algorithmic-ethics.md
+          children:
+            - file: week-10-ai-ethics/the-readings.md
+            - file: week-10-ai-ethics/concepts-and-questions.md
+        - file: week-11-automation/automation-robotics-and-labor.md
+          children:
+            - file: week-11-automation/the-readings.md
+            - file: week-11-automation/concepts-and-questions.md
+        - file: week-12-makerspaces/makerspaces-copyright-and-diy-ethics.md
+          children:
+            - file: week-12-makerspaces/the-readings.md
+            - file: week-12-makerspaces/concepts-and-questions.md
+    - title: 'Block 5: Synthesis & Professional Integration'
+      children:
+        - file: week-13-leadership/ethical-leadership-and-professional-development.md
+          children:
+            - file: week-13-leadership/the-readings.md
+            - file: week-13-leadership/concepts-and-questions.md
+        - file: week-14-global-citizenship/global-digital-citizenship.md
+          children:
+            - file: week-14-global-citizenship/the-readings.md
+            - file: week-14-global-citizenship/concepts-and-questions.md
+        - file: week-15-preservation/digital-archives-and-preservation.md
+          children:
+            - file: week-15-preservation/the-readings.md
+            - file: week-15-preservation/concepts-and-questions.md
+        - file: week-16-futures/professional-reflection-and-future-vision.md
+          children:
+            - file: week-16-futures/the-readings.md
+            - file: week-16-futures/concepts-and-questions.md
+    - title: Wrapping Up
+      children:
+        - file: capstone/arguing-with-the-algorithm.md
+          children:
+            - file: capstone/concepts-and-questions.md
+        - file: course-wrapup.md
+    - title: Resources
+      children:
+        - file: glossary.md
+        - file: references.md
+        - file: editorial-notes.md
+site:
+  template: book-theme
+  title: LIS 701 | Core Values & Ethics
+  options:
+    favicon: images/favicon.ico
+    logo: images/logo.png
+    logo_dark: images/logo.png
+    logo_text: LIS 701 | Core Values & Ethics
+    hide_footer_links: true
