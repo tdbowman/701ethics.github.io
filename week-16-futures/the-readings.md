@@ -13,7 +13,7 @@
 - **Baer (2025)**: Investigating the "feeling rules" of generative AI and imagining alternative futures
 - **Dezuanni & Osman (2024)**: IFLA trend report 2024: Facing the future of information with confidence
 - **ACRL Research Planning Cmte. (2026)**: 2026 top trends in academic libraries: A review of the trends and issues
-- **Reyna (2025)**: [Title not confirmed.]
+- **Wong & Redden (2026)**: In defense of imperfection
 
 Each entry gives you the full citation, where to find it, what the text actually argues, and why it sits in this week. Read the entry, then read the text. Not the other way around.
 
@@ -87,14 +87,29 @@ Because it is the most current, most concrete picture of the conditions your com
 
 ---
 
-## 4. Reyna (2025)
+## 4. Wong & Redden (2026)
 
-**[Title not confirmed.]**
+**In defense of imperfection**
 
-:::{warning} Not assignable as it stands
-This title appears on the Fall 2026 revision list, but no published record matching it could be found. No summary has been written for it, and nothing here should be cited. See [Editorial Notes](../editorial-notes.md).
+> Wong, D., & Redden, M. (2026). In defense of imperfection. Canadian Journal of Academic Librarianship, 11, 1–19. https://doi.org/10.33137/cjal-rcbu.v11.45490
+
+**Find it.** https://doi.org/10.33137/cjal-rcbu.v11.45490 (open access, CC BY-NC 4.0)
+
+Wong and Redden argue that librarianship applies a double standard to risk. When the profession adopts a new technology, generative AI being their running example, it moves fast and absorbs the uncertainty. When a racialized colleague proposes a justice action, the profession demands what the authors call a perfect response: a solution that arrives fully formed, handles interoperability and labour sustainability, and survives every objection, including objections from people politically opposed to the action, all before anyone will move. They define that standard explicitly on page 3, and their claim is that it functions as a veto. Since no proposal about a live, shifting injustice can meet it, the standard converts critique into permanent delay while looking like rigor.
+
+The evidence is a single case, told through autoethnography combined with Jo-ann Archibald's Indigenous Storywork and its seven principles. In 2024 the authors, both librarians at the University of Toronto, responded to a community request to rematriate Selwyn Dewdney's *The Sacred Scrolls of the Southern Ojibway* (1975) to the Three Fires Midewiwin Lodge, a work Dewdney assembled from Knowledge that was never his to publish. Their library held nine copies; WorldCat showed 468. Colleagues judged a local return inadequate, since interlibrary loan would still supply the book, and pushed them to scale up. They presented to more than 400 librarians through North: The Shared Print Network in July and December 2024. At the December session an Anishinaabeg attendee who arrived late and said he lacked context publicly questioned their intentions. That one dissent gave librarians already uneasy about deaccessioning the cover to decline. The authors returned their own copies anyway.
+
+Four analytic sections work outward from that story. "No Perfect Indians" argues that colonial witnesses read Indigenous dissent as a contest with a winner, when in Anishinaabeg practice disagreement is how a community renews its decisions; treating one voice as a verdict let the room do nothing while feeling scrupulous. "An Overreliance on Systems Approaches" shows how referring a matter to committee, or waiting for consortial agreement, transfers unpaid organizing labour onto the people already harmed, and connects that to Fobazi Ettarh's vocational awe and to burnout. "Cacophonous Solutions" borrows Jodi Byrd's transit of empire to argue that because oppression regenerates through each new technology and policy, the correct response is many partial, decentralized, uncoordinated efforts rather than one authoritative fix. "Linear Time and the Arc of Progress" uses Michelle Caswell on linear time and Elizabeth Freeman on chrononormativity to explain how "we already handled that" and "there is no time for this right now" both function as refusals.
+
+It lands on five explicit calls: embrace imperfect solutions proposed by community members; sit with your discomfort and judge trustworthiness through relations and expertise; resist systems approaches and recognize local urgency; unlearn library authority and accept multiple competing efforts; question progress narratives built on linear time. The authors are direct that they are offering an ethic in place of best practices, and they refuse to supply a checklist, saying readers who feel implicated will want one as absolution.
+
+:::{tip} Why it's here
+This is the reading that makes the turn the final essay asks you to make. Baer shows you how generative AI discourse trains your feelings, and the IFLA and ACRL reports tell you what is coming at the profession. All three describe conditions. Wong and Redden describe what happens to a person who tries to act inside those conditions, and they name the specific mechanism, perfectionism, that will be used against your commitments once you write them down. When Part 2 of your essay asks for two or three actionable commitments plus one unresolved tension, this article is your model on both counts: the five calls are commitments stated at a scale a working librarian can actually meet, and the article never resolves the tension between acting locally now and organizing systemically later. It also gives you a defensible answer to the objection your own algorithmic report will invite, that your commitments are too small. Their reply is that small and revisable is the point, and that waiting for the complete solution is itself a choice with victims.
 :::
 
+> "Critiquing without contributing is not community work, it only serves to make more work for racialized people." (p. 14)
+
+---
 
 ## Up Next
 

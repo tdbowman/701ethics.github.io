@@ -18,6 +18,11 @@
 | **Scenario development** | the foresight method underpinning the IFLA Trend Report, generating plural possible futures rather than a single forecast (Dezuanni & Osman 2024). |
 | **Data rescue** | grassroots and library-led efforts to capture and preserve federal data at risk of removal; named as a 2026 trend by ACRL and linked to the Data Rescue Project. |
 | **Technical debt** | accumulated deferred maintenance in systems and infrastructure constraining what an institution can do next; named among the structural pressures in ACRL 2026. |
+| **Perfect response** | The standard that a justice proposal must answer every institutional process and every possible objection before it can proceed. Wong and Redden treat this as a veto dressed as diligence (2026, p. 3). |
+| **Imperfect solutions** | Gradual, decentralized, locally scoped actions that can be revised as conditions shift. The article's central defense, and probably the right form for your own commitments. |
+| **Rematriation** | An Indigenous feminist term the authors choose over repatriation, marking the ongoing role of Indigenous women and Two-Spirit people in stewarding Lands and the Knowledges that come from them. |
+| **Cacophonous solutions** | Drawn from Jodi Byrd: since empire renews itself through each new system, many discordant partial responses are needed, and shared goals do not require shared methods. |
+| **Chrononormativity** | Freeman's term for organizing bodies around maximum productivity, used here to explain how "there is no time for this right now" defers justice indefinitely. |
 
 All terms from all sixteen weeks are collected in the [Glossary](../glossary.md).
 
@@ -33,7 +38,9 @@ These are written for **Perusall**. Each one points at something specific and ea
 4. Baer reads the ACRL task force's engagement with critical feedback as evidence that feeling rules are contested rather than fixed. Is her generosity analytically earned, or does it soften an argument that should stay sharp?
 5. Only one of the IFLA Trend Report's seven trends is about technology as such. Is that proportion a strength of the report, or a sign it is avoiding the hardest trend?
 6. The ACRL report pairs AI adoption with vendor pressure and transparency gaps but still frames the task as navigation rather than choice. Rewrite that trend in one sentence as Baer would.
-7. Across all five blocks, choose the reading that most directly contradicts another you found persuasive. Annotate where they collide and say what you now believe, without splitting the difference.
+7. Wong and Redden write that "critiquing without contributing is not community work" (p. 14). Test that against your own draft commitments. Pick one commitment you plan to state in the final essay and decide whether it is a contribution or a critique wearing a contribution's clothes.
+8. In "An Overreliance on Systems Approaches," Wong and Redden ask colleagues to resist referring matters to committee, consultation, and consortial action. Every governance document you have read this semester recommends exactly those steps. Does their argument hold as a general principle, or only where the community has already said what it wants?
+9. Across all five blocks, choose the reading that most directly contradicts another you found persuasive. Annotate where they collide and say what you now believe, without splitting the difference.
 
 ---
 

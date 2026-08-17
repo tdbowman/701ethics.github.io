@@ -39,14 +39,14 @@ Annotate everything in **Perusall**. The Block 5 scenario, *Ethics Journey Capst
 | Reading | Source | Notes |
 |---------|--------|-------|
 | [AI ready: How to prepare archives for artificial intelligence, improve discoverability, and enhance access](https://doi.org/10.1080/23257962.2026.2675937) | Colavizza & Jaillant (2026), *Archives and Records: The Journal of the Archives and Records Association* | This connects Block 4's AI ethics to Block 5's stewardship through the least glamorous and most consequential channel: description. |
-| [Keeping bits safe: How hard can it be](https://doi.org/10.1145/1839676.1839692) 🗂️ | Rosenthal (2010), *Communications of the ACM* | Because it models intellectual honesty about the limits of one's own field, written by someone who spent a decade building preservation systems. |
+| [Archival storage [Text of a talk delivered at the University of California, Berkeley, School of Information, Information Access Se](https://blog.dshr.org/2025/03/archival-storage.html) 🗂️ | Rosenthal (2025), *DSHR's Blog* | Colavizza and Jaillant tell you how to make archives usable by machines, and Park and Aghassibake tell you what data literacy owes the people whose data you hold. |
 | [Empowering immigrant library users through personal data literacy programming in public libraries](https://muse.jhu.edu/issue/56412) | Park & Aghassibake (2026), *Library Trends* | Because it prevents the preservation week from becoming a week about objects, and because it connects directly to Block 2's privacy work and Block 3's equity work… |
 
 🗂️ = the PDF is already in the course project folder. See [References](../references.md) for full APA citations.
 
 ### 🗝️ Key Terms This Week
 
-*Bit rot · Bit half-life · MTTDL (mean time to data loss) · Silent data corruption · Common-mode failure · Scrubbing / auditing replicas · AI-readiness · Excluded data documentation · Derivative data · Personal data literacy*: defined in [Concepts & Questions](concepts-and-questions.md) and collected in the [Glossary](../glossary.md).
+*Archival data · Kryder's Law · Unrecoverable bit error rate (UBER) · System cost versus media cost · Lock-in · The LOCKSS principle · Bit rot · AI-readiness · Excluded data documentation · Derivative data*: defined in [Concepts & Questions](concepts-and-questions.md) and collected in the [Glossary](../glossary.md).
 
 ---
 

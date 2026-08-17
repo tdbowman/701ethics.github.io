@@ -41,7 +41,7 @@ The full Fall 2026 reading list in APA 7, by block and week. Entries marked 🗂
 - 🗂️ National Information Standards Organization. (2015). *NISO consensus principles on users' digital privacy in library, publisher, and software-provider systems (NISO Privacy Principles).* NISO. ISBN 978-1-937522-70-4.
 - Salo, D. (2024). Data ethics in library learning analytics. *Journal of Librarianship and Scholarly Communication, 12*(1), Article 16245. https://doi.org/10.31274/jlsc.16245
 - Yoose, B., & Shockey, N. (2024). *Navigating risk in vendor data privacy practices: An analysis of Springer Nature's SpringerLink.* SPARC. https://doi.org/10.5281/zenodo.13886473
-- ⚠️ Cyrus. (2026). [Title not established.]
+- Cyrus, H. (2026). Refusal as instruction: Equipping patrons to resist AI, data brokers, big tech, & more. *Information Technology and Libraries*, *45*(1). https://doi.org/10.5860/ital.v45i1.17653
 - 🗂️ Lyon, L. (2016). Transparency: The emerging third dimension of open science and open data. *LIBER Quarterly, 25*(4), 153–171. https://doi.org/10.18352/lq.10113
 
 ### Week 6: Digital Divide & Technology Access
@@ -115,7 +115,7 @@ The full Fall 2026 reading list in APA 7, by block and week. Entries marked 🗂
 ### Week 15: Digital Archives & Preservation
 
 - Colavizza, G., & Jaillant, L. (2026). AI ready: How to prepare archives for artificial intelligence, improve discoverability, and enhance access. *Archives and Records: The Journal of the Archives and Records Association*. https://doi.org/10.1080/23257962.2026.2675937
-- ⚠️ 🗂️ Rosenthal, D. S. H. (2010). Keeping bits safe: How hard can it be? *Communications of the ACM*, *53*(11), 47–55. https://doi.org/10.1145/1839676.1839692
+- 🗂️ Rosenthal, D. S. H. (2025, March 14). Archival storage [Text of a talk delivered at the University of California, Berkeley, School of Information, Information Access Seminar]. *DSHR's Blog*. https://blog.dshr.org/2025/03/archival-storage.html
 - Park, H., & Aghassibake, N. (2026). Empowering immigrant library users through personal data literacy programming in public libraries. *Library Trends*, *74*(3).
 
 ### Week 16: Professional Reflection & Future Vision
@@ -123,4 +123,4 @@ The full Fall 2026 reading list in APA 7, by block and week. Entries marked 🗂
 - 🗂️ Baer, A. (2025, July 16). Investigating the "feeling rules" of generative AI and imagining alternative futures. *In the Library with the Lead Pipe*. https://www.inthelibrarywiththeleadpipe.org/2025/ai-feeling-rules/
 - Dezuanni, M., & Osman, K. (2024). *IFLA trend report 2024: Facing the future of information with confidence*. International Federation of Library Associations and Institutions. https://repository.ifla.org/items/ae4dfcc0-8def-4318-8c4c-7f0507d15609
 - ACRL Research Planning and Review Committee. (2026). 2026 top trends in academic libraries: A review of the trends and issues. *College & Research Libraries News*, *87*(6). https://crln.acrl.org/index.php/crlnews/article/view/27364
-- ⚠️ Reyna. (2025). [Title not confirmed.]
+- Wong, D., & Redden, M. (2026). In defense of imperfection. *Canadian Journal of Academic Librarianship*, *11*, 1–19. https://doi.org/10.33137/cjal-rcbu.v11.45490

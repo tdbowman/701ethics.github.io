@@ -1,18 +1,28 @@
 # Editorial Notes ⚠️
 
-This book was rebuilt for Fall 2026 from the previous reading list plus the current revision notes, then checked citation by citation. This page records what was corrected and what still needs attention. It is here rather than hidden in a commit message because a book about information ethics should show its own sources.
+This book was rebuilt for Fall 2026 from the previous reading list plus the current revision notes, then checked citation by citation. This page records what was corrected, what was replaced, and what you should check before citing. It is here rather than hidden in a commit message because a book about information ethics should show its own sources.
 
 ---
 
-## Items needing attention (5)
+## The five unresolved items, resolved
 
-**Cyrus (2026)**, in [Week 5](week-05-data-ethics/the-readings.md)
+Every reading assigned this semester has been verified against a published record. Two summaries, noted below, were written without access to the full text; every other summary in this book was written from the source itself.
 
-> Cyrus. (2026). [Title not established.]
+Five items on the revision list were unresolved in the first build of this book. All five are now settled:
 
-:::{warning} Citation unconfirmed
-NEW for Fall 2026. STATUS: UNVERIFIED
-:::
+| Revision list said | Outcome |
+|--------------------|---------|
+| Cyrus (2026), no title | **Identified.** Cyrus, H. (2026), "Refusal as instruction," *Information Technology and Libraries* 45(1), open access. Assigned in Week 5. |
+| Winberry (2025) | **Does not exist.** His verified 2025 and 2026 work is single-study research on aging services, information marginalization, LIS education, and book-ban advocacy, none of which surveys the field. Winberry & Bishop (2021) stays in Week 8 on its merits. |
+| Hanell (2025), no title | **Confirmed**, with a subtitle correction. The published subtitle is "in Times of Political Turmoil"; the phrase previously used was the funding project's name. Open access, read in full. |
+| Rosenthal (2025) | **Identified.** Rosenthal's "Archival storage" talk of 14 March 2025, posted on DSHR's Blog and delivered at Berkeley's School of Information. It replaces the 2010 article, which moves to Going Deeper. He has published nothing peer-reviewed since 2016. |
+| Reyna (2025), no title | **Unresolvable, and replaced.** No LIS publication by any Reyna fits this week; the two real Reyna 2025 items are a paywalled workforce survey and a one-page poster abstract. Week 16 now assigns Wong & Redden (2026), "In defense of imperfection," open access. |
+
+---
+
+## Read the source before you quote it (2)
+
+These two are correctly cited and correctly placed. The summaries were written from published abstracts, reviews, and tables of contents rather than from the full text, because neither could be obtained openly. Treat their entries as orientation and read the source before citing specifics.
 
 **Oladokun et al. (2026)**, in [Week 11](week-11-automation/the-readings.md)
 
@@ -28,22 +38,6 @@ NEW for Fall 2026. Replaces Tella (2020) and Asemi, Ko & Nowkarizi (2021). Verif
 
 :::{warning} Verification note
 NEW for Fall 2026. Replaces Fleming (2015) on OER/makerspaces. Verified: editors Maggie Melo and Jennifer T. Nichols, Library Juice Press, 2020, ix + 316 pp., ISBN-13 978-1-63400-081-9 (reviewed in Public Services Quarterly, 17(3)). Correction to the reconstructed list: this is a critical makerspace collection, not an OER text. The substitution changes the topic, not just the citation. STATUS: contents unverified. The volume was not read in preparing this chapter, so no chapter-level claims are made. Read the assigned chapters in Perusall; treat what follows as orientation only.
-:::
-
-**Rosenthal (2010)**, in [Week 15](week-15-preservation/the-readings.md)
-
-> Rosenthal, D. S. H. (2010). Keeping bits safe: How hard can it be? Communications of the ACM, 53(11), 47–55. https://doi.org/10.1145/1839676.1839692
-
-:::{warning} Verification note
-In the project: KeepingBitsSafe.pdf. Fallback. The Fall 2026 list called for Rosenthal (2025) as a replacement. STATUS: UNVERIFIED. I confirmed Rosenthal remains active and posted on archival storage in 2025 on DSHR's Blog, but could not confirm a 2025 publication functioning as a successor to this article. Use the 2010 text unless the instructor supplies a newer citation.
-:::
-
-**Reyna (2025)**, in [Week 16](week-16-futures/the-readings.md)
-
-> Reyna. (2025). [Title not confirmed.]
-
-:::{warning} Citation unconfirmed
-NEW for Fall 2026. STATUS: UNVERIFIED
 :::
 
 ---
@@ -67,6 +61,10 @@ NEW for Fall 2026. STATUS: UNVERIFIED
 | Hepler & Horalek | The previous list pointed both assigned chapter ranges at the Chapter 1 URL. Per-chapter links are given in Weeks 1 and 2. |
 | ALA AI guidance | **Confirmed**: adopted by ALA Council 16 July 2026; six values plus a six-principle framework appendix. |
 | ALA ableism Q&A | **Confirmed**: Committee on Professional Ethics, approved 30 June 2026. |
+| Hanell et al. (2025) | Subtitle corrected to *in Times of Political Turmoil*. The previous subtitle was the name of the research project that funded the work. |
+| Rosenthal | The Week 15 reading is now the **2025** "Archival storage" talk. The 2010 *CACM* article moves to Going Deeper. |
+| Cyrus (2026) | Identified as **Hannah Cyrus**, *Information Technology and Libraries* 45(1), 16 March 2026, CC BY-NC. |
+| Reyna (2025) | No matching publication exists. Replaced by **Wong & Redden (2026)**, *Canadian Journal of Academic Librarianship* 11. Note the journal's volume label reads 2025 on the PDF but the version of record is 2026. |
 
 ---
 
@@ -75,8 +73,7 @@ NEW for Fall 2026. STATUS: UNVERIFIED
 | Mark | Meaning |
 |------|---------|
 | 🗂️ | The PDF is already in the course project folder, and the summary was written from the full text. |
-| ⚠️ Verification note | The citation is confirmed but the full text was not read (paywalled, abstract or review only), or the entry stands in for a replacement that could not be located. |
-| ⚠️ Citation unconfirmed | The title appears on the revision list but no published record matches it. No summary was written. |
+| ⚠️ Verification note | The citation is confirmed but the full text was not read, because it is paywalled and no open copy exists. Two entries carry this mark. |
 
 ---
 

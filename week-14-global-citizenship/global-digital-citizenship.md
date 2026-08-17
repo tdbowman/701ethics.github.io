@@ -39,13 +39,13 @@ Annotate everything in **Perusall**. The Block 5 scenario, *Ethics Journey Capst
 | Reading | Source | Notes |
 |---------|--------|-------|
 | [A unified framework of five principles for AI in society](https://doi.org/10.1162/99608f92.8cd550d1) 🗂️ | Floridi & Cowls (2019), *Harvard Data Science Review* | Because these five words are the most portable critique vocabulary in the course, and because a framework built to solve principle proliferation is itself a fine object to interrogate. |
-| [Canaries of democracy: The role of public libraries in times of political turmoil](https://doi.org/10.1080/01616846.2024.2385741) | Hanell et al. (2025), *Public Library Quarterly* | Because "global digital citizenship" is an empty phrase unless you have looked at how the citizenship part is going somewhere other than here. |
+| [Canaries of democracy: The role of public libraries in times of political turmoil](https://doi.org/10.1080/01616846.2024.2385741) | Hanell et al. (2025), *Public Library Quarterly* | Floridi and Cowls give you the vocabulary at altitude: five principles distilled from six sets of AI guidelines, with a warning that piling up more principle… |
 
 🗂️ = the PDF is already in the course project folder. See [References](../references.md) for full APA citations.
 
 ### 🗝️ Key Terms This Week
 
-*Beneficence · Non-maleficence · Autonomy · Meta-autonomy / decide-to-delegate · Justice · Explicability · Principle proliferation · Market for principles · Canary metaphor · Post-consensus cultural policy*: defined in [Concepts & Questions](concepts-and-questions.md) and collected in the [Glossary](../glossary.md).
+*Beneficence · Non-maleficence · Autonomy · Meta-autonomy / decide-to-delegate · Justice · Explicability · Principle proliferation · Market for principles · Arm's length principle · Illegitimate political influence*: defined in [Concepts & Questions](concepts-and-questions.md) and collected in the [Glossary](../glossary.md).
 
 ---
 

@@ -4,14 +4,14 @@
 
 ---
 
-> <span style="font-size: 150%;">"Our inability to compute how many backup copies we need to achieve a reliability target is something we are just going to have to live with. We are not going to have enough backup copies, and stuff will get lost or damaged."</span>
+> <span style="font-size: 150%;">"The reason why this focus on media is a distraction is that the fundamental problem of digital preservation is economic, not technical. No-one wants to pay for preserving data that isn't earning its keep, pretty much the definition of archived data."</span>
 
 ---
 
 ## 🎯 In This Section
 
 - **Colavizza & Jaillant (2026)**: AI ready: How to prepare archives for artificial intelligence, improve discoverability, and enhance access
-- **Rosenthal (2010)**: Keeping bits safe: How hard can it be
+- **Rosenthal (2025)**: Archival storage [Text of a talk delivered at the University of California, Berkeley, School of Information, Information Access Se
 - **Park & Aghassibake (2026)**: Empowering immigrant library users through personal data literacy programming in public libraries
 
 Each entry gives you the full citation, where to find it, what the text actually argues, and why it sits in this week. Read the entry, then read the text. Not the other way around.
@@ -40,35 +40,27 @@ This connects Block 4's AI ethics to Block 5's stewardship through the least gla
 
 ---
 
-## 2. Rosenthal (2010)
+## 2. Rosenthal (2025)
 
-**Keeping bits safe: How hard can it be**
+**Archival storage [Text of a talk delivered at the University of California, Berkeley, School of Information, Information Access Se**
 
-> Rosenthal, D. S. H. (2010). Keeping bits safe: How hard can it be? Communications of the ACM, 53(11), 47–55. https://doi.org/10.1145/1839676.1839692
+> Rosenthal, D. S. H. (2025, March 14). Archival storage [Text of a talk delivered at the University of California, Berkeley, School of Information, Information Access Seminar]. DSHR's Blog. https://blog.dshr.org/2025/03/archival-storage.html
 
-**Find it.** https://doi.org/10.1145/1839676.1839692
+**Find it.** https://blog.dshr.org/2025/03/archival-storage.html
 
-**In the course project.** `KeepingBitsSafe.pdf`
+Rosenthal starts by pulling apart two things you probably treat as one. He walks through his own backup routine, then points out what it implies: the useful life of backup data is only the interval between the last backup and the recovery, so media lifespan is irrelevant to backups. Archival data he defines differently, as data that can no longer earn its keep on readily accessible storage. Archiving is therefore a move down the storage hierarchy that buys lower cost by accepting longer access latency. That definition carries his whole thesis. Archiving is an economic problem wearing a technical costume, and the idea he wants to kill is that the answer is quasi-immortal media.
 
-:::{warning} Verification note
-In the project: KeepingBitsSafe.pdf. Fallback. The Fall 2026 list called for Rosenthal (2025) as a replacement. STATUS: UNVERIFIED. I confirmed Rosenthal remains active and posted on archival storage in 2025 on DSHR's Blog, but could not confirm a 2025 publication functioning as a successor to this article. Use the 2010 text unless the instructor supplies a newer citation.
-:::
+He then takes apart the press cycle that produces headlines about storing every film ever made in a teacup. The market for archive-only media is tiny: LTO tape is under 1 percent of the media market in dollar terms, and OD-3, the most recent archive-only optical format, was cancelled in 2023 for want of buyers. The timescales are far longer than announcements suggest. Seagate's HAMR research began 26 years ago and is only now shipping to hyperscalers, silica research is 15 years old, and DNA storage research is 36 years old. The only end-to-end DNA storage drive ever demonstrated, from the Microsoft and University of Washington team in 2019, cost about $10,000 and took 21 hours to write and then read five bytes. Bit rot is also only one threat among many. Every medium has a specified unrecoverable bit error rate: typical disk is 10^-15, so reading a petabyte can produce up to eight errors, while LTO-9 tape is 10^-20 when new and degrades steeply with wear. Most errors users actually experience come from layers of the system above the media, which is why archives need erasure coding, and why a single copy on immortal media is still exposed to fire, flood, ransomware, insider attack, and loss of the encryption key.
 
-Rosenthal starts with a deliberately concrete target: keep one petabyte for one century with a 50% chance that every bit survives undamaged. He then shows nobody can tell you whether any system meets it.
+The center of the talk is system cost. An IBM TS4300 tape robot starts at $20,000, and the forty cartridges to fill it cost about $4,000, so media is roughly 16 percent of capital expenditure before you count power, cooling, floor space, staff, and the maintenance contract. Facebook's optical racks held 10,000 Blu-Ray discs for one petabyte, and at about 80 cents a disc the media came to roughly $8,000 against far costlier robotics and drives. Kryder's Law, the exponential rise in bit density, then makes economic lifespan override technical lifespan. Hard drives are retired at five years even though the data on the platters is good for a quarter century, and Seagate built 25-year drives that nobody would pay extra for. Durable media do not help if the economics replace them anyway.
 
-The first move dismantles vendor reliability claims. He takes Sun's claim of a mean time to data loss of 2.4 million years for the ST5800 and shows MTTDL is close to meaningless as a guarantee: a system where three of ten units lose data in year one and the rest survive millions of years satisfies that number. He also notes Sun's terms and conditions disclaimed all liability for data loss. Such figures are not experimental results but projections from models. He examines the state of the art, the Pergamum project at UC Santa Cruz, to show the models assume what every real-world study contradicts: that disk and sector failures are uncorrelated, that always-on failure rates translate to mostly-off usage, that disks are the only failing component, that the software is bug-free, and that operator error, insider abuse, and external attack do not exist. Models, he concludes, estimate the *minimum* loss rate.
-
-The second move is worth memorizing. MTTDL relates to time but not bits; the unrecoverable bit error rate relates to bits but not time, so the profession lacks even the metric it needs. He simplifies: imagine all correlated causes eliminated, leaving only *bit rot*, a process flipping bits randomly at a constant small rate. Treat bits like radioactive atoms and you get a *bit half-life*. The petabyte-for-a-century requirement translates to a bit half-life of 8×10^17 years, roughly 60 million times the current estimated age of the universe. Benchmarking a system against that in one year would require writing and verifying an exabyte, costing ten times more than the system you were considering.
-
-The third move is empirical and grim. The CERN study wrote about 9.7×10^16 bytes into a broad range of enterprise storage and checked them over six months; about 1.92×10^8 bytes suffered silent corruption, two-thirds of it persistent. That is roughly 1.2 in a billion bytes permanently corrupted in half a year, implying current enterprise storage would need to improve by a factor of at least a billion. A parallel NetApp study of over 1.5 million drives found more than 400,000 silent corruption incidents, over 30,000 undetected until RAID restoration.
-
-The conclusions are practical and modest: replicate across multiple, ideally *different* storage systems, because identical systems share common-mode failures; audit (scrub) replicas to detect damage and repair from good copies; accept that scrubbing itself costs bandwidth and adds risk. He ends by asking storage APIs to support end-to-end integrity checks including a nonce prepended to the data before the digest is computed, so a service cannot fake a correct answer by remembering the digest you gave it. It is a small, precise demand for verifiability, and the engineering cousin of explicability.
+Where it lands is the cloud. Rosenthal reruns a pricing exercise he first did in 2019: ingest a petabyte over a month, store it for a year, retrieve it over a month. Adjusted to 2024 dollars, the 2019 totals were $132,263 for Amazon Glacier, $214,977 for Google Coldline, and $58,440 for Microsoft Archive. Six years later the same exercise gives $60,950 for Amazon S3 Glacier Deep Archive, $224,510 for Google Archive, and $62,200 for Microsoft Archive. Only Amazon passed Kryder's Law through to customers, at roughly 35 percent a year. Meanwhile lock-in, which he measures as the number of months of storage cost that a single month of full retrieval represents, rose from 13.8, 12.0, and 8.1 to 50, 175.6, and 20, with outbound bandwidth driving 77 percent of Amazon's figure. Since the economics only work at data-center scale, he concludes it will be a rare institution that can avoid cloud archival storage, and closes on the original LOCKSS insight, backed by Backblaze CTO Brian Wilson's finding that doubling drive reliability is worth only a tenth of one percent in extra cost: design for failure, buy cheap components, and keep many loosely coupled copies rather than one expensive durable one.
 
 :::{tip} Why it's here
-Because it models intellectual honesty about the limits of one's own field, written by someone who spent a decade building preservation systems. Rosenthal does not conclude that preservation is impossible; he concludes we should stop pretending we know, and design accordingly. That is exactly the posture you need when a system hands you a number about yourself.
+Colavizza and Jaillant tell you how to make archives usable by machines, and Park and Aghassibake tell you what data literacy owes the people whose data you hold. Both assume the bits will still be there. This is where you find out what that assumption costs, in dollars and in institutional dependency. It gives you the question that actually decides whether a preservation commitment is real: not what medium the material sits on, but who is paying the system cost every year for the next fifty years, and what happens when they stop. It also turns a technical fact into an ethical one. If the economics push your institution into a single cloud vendor with a lock-in of fifty months of storage costs, your promise to preserve a community's records has quietly become that vendor's pricing decision, and you should know that before you make the promise.
 :::
 
-> "Our inability to compute how many backup copies we need to achieve a reliability target is something we are just going to have to live with. We are not going to have enough backup copies, and stuff will get lost or damaged." (p. 52)
+> "The reason why this focus on media is a distraction is that the fundamental problem of digital preservation is economic, not technical. No-one wants to pay for preserving data that isn't earning its keep, pretty much the definition of archived data." ("Archival Storage Systems" section)
 
 ---
 

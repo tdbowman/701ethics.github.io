@@ -8,12 +8,13 @@
 
 | Term | What it means |
 |------|---------------|
-| **Bit rot** | a process randomly flipping stored bits at a constant small probability per unit time; the residual failure mode remaining even if every correlated cause were eliminated (Rosenthal, p. 50). |
-| **Bit half-life** | the time after which there is a 50% probability a given bit has flipped; Rosenthal's proposed metric, because MTTDL relates to time but not bits and UBER relates to bits but not time (p. 50). |
-| **MTTDL (mean time to data loss)** | the vendor reliability figure shown to be uninformative, since it averages failure times without saying how much data each event destroys (pp. 47–50). |
-| **Silent data corruption** | file content changing in storage with no explanation and no recorded error; documented at scale in the CERN and NetApp studies (pp. 50–51). |
-| **Common-mode failure** | why replicating across identical systems is much weaker than replicating across diverse ones: one software bug damages the same data in every copy (p. 51). |
-| **Scrubbing / auditing replicas** | regularly reading and verifying copies to detect damage and repair from a good replica; without it, extra replicas add little to bit half-life (pp. 51–52). |
+| **Archival data** | Data that can no longer earn its keep on readily accessible storage, so it moves down the storage hierarchy to trade slower access for lower cost. Rosenthal's definition makes archiving a budget decision before it is a technology decision (Rosenthal 2025). |
+| **Kryder's Law** | The exponential rise in bits stored per unit of medium. Denser, cheaper media keep arriving, so institutions replace working drives at five years and the technical lifespan of a medium stops mattering. |
+| **Unrecoverable bit error rate (UBER)** | The specified rate at which a medium returns data it cannot correct. Typical disk is 10^-15, which allows up to eight errors per petabyte read; LTO-9 tape is 10^-20 when new and degrades with wear. |
+| **System cost versus media cost** | Tape cartridges are about 16 percent of a TS4300's capital cost, and drives, robotics, power, cooling, space, and staff are the rest, which is why archiving only pencils out at data-center scale. |
+| **Lock-in** | The months of storage charges that a single month of full retrieval would cost. Rosenthal shows it rising from 8 to 14 months in 2019 to between 20 and 176 months today, mostly through outbound bandwidth charges. |
+| **The LOCKSS principle** | That within a fixed budget and a realistic threat model, data survives better in many cheap, unreliable, loosely coupled replicas than in one expensive durable copy. |
+| **Bit rot** | A process randomly flipping stored bits at a small constant rate. Real preservation failures more often come from layers above the media, which is why archives use erasure coding and geographic diversity. |
 | **AI-readiness** | the condition in which a collection's documentation, metadata, provenance, and formats suffice for computational use; a property of the collection, not the software (Colavizza & Jaillant, 2026). |
 | **Excluded data documentation** | recording the extent of digitization, its gaps, and why material was left out, so users understand what the digitized collection is a sample of (ARA guidelines, pillar 1). |
 | **Derivative data** | standardized, well-documented, consistently formatted versions created for computational use while originals are preserved unaltered (ARA guidelines, pillar 3). |
@@ -49,6 +50,7 @@ These are written for **Perusall**. Each one points at something specific and ea
 
 Optional, and genuinely optional. These are also good places to find a final-essay angle.
 
+- Rosenthal, D. S. H. (2010), "Keeping bits safe: How hard can it be?" *Communications of the ACM*, 53(11), 47–55, in the project as `KeepingBitsSafe.pdf`. The retired Week 15 anchor and the ancestor of the 2025 talk. Go here for the arithmetic the talk assumes: bit half-life, why mean time to data loss tells you nothing, and the CERN and NetApp silent-corruption studies.
 - Conway, P. (2010), "Preservation in the age of Google," *Library Quarterly*, 80(1), 61–79. The retired Week 15 anchor, still in the project as `PreservationGoogle.pdf`; its distinction between "digitization for preservation" and "digital preservation," and its four dilemmas (environmental, quality, nonbook, expertise), remain the clearest short statement of the resource-allocation problem.
 - Digital Preservation Coalition, https://www.dpconline.org/. Home of the *Digital Preservation Handbook*, Technology Watch Reports, and the "Bit List" of digitally endangered species.
 - iPRES proceedings, https://ipres-conference.org/. The annual international digital preservation conference, openly published; a version of Rosenthal's argument was first presented there in 2008.

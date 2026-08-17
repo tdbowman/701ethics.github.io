@@ -41,7 +41,7 @@ Annotate everything in **Perusall**. The Block 2 scenario, *Data Ethics Simulati
 | [NISO consensus principles on users' digital privacy in library, publisher, and software-provider systems (NISO Privacy Principles)](https://www.niso.org/publications/privacy-principles) 🗂️ | NISO (2015), *See citation* | NISO is the hinge of the block. The ALA interpretation does not restate a security standard; it points here. |
 | [Data ethics in library learning analytics](https://doi.org/10.31274/jlsc.16245) | Salo (2024), *Journal of Librarianship and Scholarly Communication* | This reading will make you uncomfortable, and it should. |
 | [Navigating risk in vendor data privacy practices: An analysis of Springer Nature's SpringerLink](https://doi.org/10.5281/zenodo.13886473) | Yoose & Shockey (2024), *SPARC* | It converts the abstract vendor problem into a countable one. |
-| [Title not established.] | Cyrus (2026), *See citation* | **Citation unconfirmed. Do not annotate this yet.** |
+| [Refusal as instruction: Equipping patrons to resist AI, data brokers, big tech, & more](https://doi.org/10.5860/ital.v45i1.17653) | Cyrus (2026), *Information Technology and Libraries* | The other readings this week look at data ethics from above. |
 | [Transparency: The emerging third dimension of open science and open data](https://doi.org/10.18352/lq.10113) 🗂️ | Lyon (2016), *LIBER Quarterly* | Retained as fallback and foil. If you read it, read it for the transparency-agent role, then ask whether Salo's sixty-two projects were agents or subjects of that role. |
 
 🗂️ = the PDF is already in the course project folder. See [References](../references.md) for full APA citations.

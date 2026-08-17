@@ -41,7 +41,7 @@ Annotate everything in **Perusall**. The Block 5 scenario, *Ethics Journey Capst
 | [Investigating the "feeling rules" of generative AI and imagining alternative futures](https://www.inthelibrarywiththeleadpipe.org/2025/ai-feeling-rules/) 🗂️ | Baer (2025), *In the Library with the Lead Pipe* | Because the final essay asks you to argue with an algorithm, and this is the article that gives you permission to notice how you feel about being scored, plus a… |
 | [IFLA trend report 2024: Facing the future of information with confidence](https://www.ifla.org/wp-content/uploads/ifla-trend-report-2024.pdf) | Dezuanni & Osman (2024) | It is the widest-angle lens in the course, and your philosophy statement will read very differently written against a picture of the profession's next decade rather than against this semester. |
 | [2026 top trends in academic libraries: A review of the trends and issues](https://crln.acrl.org/index.php/crlnews/article/view/27364) | ACRL Research Planning Cmte. (2026), *College & Research Libraries News* | Because it is the most current, most concrete picture of the conditions your commitments will have to survive, and short enough to read twice. |
-| [Title not confirmed.] | Reyna (2025), *See citation* | **Citation unconfirmed. Do not annotate this yet.** |
+| [In defense of imperfection](https://doi.org/10.33137/cjal-rcbu.v11.45490) | Wong & Redden (2026), *Canadian Journal of Academic Librarianship* | This is the reading that makes the turn the final essay asks you to make. |
 
 🗂️ = the PDF is already in the course project folder. See [References](../references.md) for full APA citations.
 

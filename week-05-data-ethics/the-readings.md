@@ -13,7 +13,7 @@
 - **NISO (2015)**: NISO consensus principles on users' digital privacy in library, publisher, and software-provider systems (NISO Privacy Principles)
 - **Salo (2024)**: Data ethics in library learning analytics
 - **Yoose & Shockey (2024)**: Navigating risk in vendor data privacy practices: An analysis of Springer Nature's SpringerLink
-- **Cyrus (2026)**: [Title not established.]
+- **Cyrus (2026)**: Refusal as instruction: Equipping patrons to resist AI, data brokers, big tech, & more
 - **Lyon (2016)**: Transparency: The emerging third dimension of open science and open data
 
 Each entry gives you the full citation, where to find it, what the text actually argues, and why it sits in this week. Read the entry, then read the text. Not the other way around.
@@ -90,12 +90,27 @@ It converts the abstract vendor problem into a countable one. The ALA interpreta
 
 ## 4. Cyrus (2026)
 
-**[Title not established.]**
+**Refusal as instruction: Equipping patrons to resist AI, data brokers, big tech, & more**
 
-:::{warning} Not assignable as it stands
-This title appears on the Fall 2026 revision list, but no published record matching it could be found. No summary has been written for it, and nothing here should be cited. See [Editorial Notes](../editorial-notes.md).
+> Cyrus, H. (2026). Refusal as instruction: Equipping patrons to resist AI, data brokers, big tech, & more. Information Technology and Libraries, 45(1). https://doi.org/10.5860/ital.v45i1.17653
+
+**Find it.** https://doi.org/10.5860/ital.v45i1.17653 (full text PDF: https://ital.corejournals.org/index.php/ital/article/download/17653/11960)
+
+Cyrus opens at a service desk. A patron who has never used email needs an address to apply for a job or claim a benefit. The fast move is to set them up with Gmail, uncheck a few boxes if you are privacy-minded, run a two-minute tutorial, and get to the actual task. Cyrus grants that this is reasonable under time pressure, then argues it works quietly against the profession's stated commitments. Her claim is that libraries have a role in helping patrons reject technologies, and that this role has equal standing with the familiar role of helping them adopt technologies.
+
+The argument runs through library values rather than through law or policy. Taking ALA's Core Values one at a time, she asks what each demands of technology instruction. Access is not free if patrons pay in personal information without knowing it. Equity matters because data harvesting falls hardest on people already exposed, and she cites reporting on ICE using commercial and government data sources to locate people. Intellectual Freedom and Privacy is where she says the question actually lives. Public Good and Sustainability extend to the data centers powering AI tools patrons did not ask for. She rejects the "just tools" framing directly: signing a patron up for Gmail by default is no more neutral than teaching them to leave Google.
+
+Her evidence is practitioner evidence, and she is open about that. It is a decade in the profession, half of it spent on technology instruction, plus attendance and reception data from classes she built: "Data Brokers 101," a "Dump Big Tech" series, and "Avoiding AI," which drew seventy in-person and online participants at a small rural library. This is not a study, and you should read the attendance figures as illustration rather than as a finding. What they support is her narrower claim about demand: patrons are arriving with these questions already formed.
+
+"Practical Next Steps" is the operational core and the part most useful to you. Educate yourself on privacy tools and keep current, because settings change. Configure public computers as instruction: install Firefox, Brave, or Tor alongside Edge and Chrome, add ad blockers, switch the default search engine, and post signage explaining why, which she frames as passive programming. Give patrons a real choice during reference interactions, and she supplies scripts. Build the material into programs and handouts. Organize with colleagues, with community partners serving people at elevated risk, and with legislators, on the grounds that individual action has limits and data minimization law is the larger target. She closes on a patron at "Avoiding AI" who had felt alone in his doubts and left with his judgment reaffirmed.
+
+:::{tip} Why it's here
+The other readings this week look at data ethics from above. NISO gives you consensus principles, Salo analyzes learning analytics inside academic libraries, and Yoose and Shockey audit one vendor's data flows at the contract and platform level. None of them tells you what any of this looks like at the point of service, with one person in front of you who needs an email address in the next ten minutes. Cyrus operates at exactly that scale, and she adds the actor the others barely touch: the data broker, sitting downstream of the consumer platforms your patrons are locked into and outside any library contract you could renegotiate. Read her against Yoose and Shockey in particular. They show you the leverage you have as an institution. Cyrus shows you what is left when you have none, and what one worker can still do with a browser install and a script.
 :::
 
+> "As values-driven organizations, libraries have a role to play in facilitating patrons' rejection of technology, just as much as in their adoption of it." (p. 2, "Why Is This Work Important")
+
+---
 
 ## 5. Lyon (2016)
 

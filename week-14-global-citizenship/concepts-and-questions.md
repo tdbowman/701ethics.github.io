@@ -16,8 +16,13 @@
 | **Explicability** | intelligibility ("how does it work?") plus accountability ("who is responsible for the way it works?"); added because it enables the other four (§3.5). |
 | **Principle proliferation** | so many published sets of AI principles that they become either redundant or contradictory, inviting stakeholders to shop for the least demanding set (§1). |
 | **Market for principles** | the failure mode in which organizations select among ethical frameworks for convenience rather than merit (§1, citing Floridi 2019b). |
-| **Canary metaphor** | Hanell et al.'s framing of public libraries as early indicators of democratic strain, registering political distress before other institutions (2025). |
-| **Post-consensus cultural policy** | the condition in which the shared political agreement insulating libraries from partisan contest has broken down (Hanell, Carlsson, & Engström, 2024, and related work). |
+| **Arm's length principle** | The Swedish convention that elected politicians set budgets and broad mandates while professionals decide programming and collections. Attempts to shorten that arm are the clearest marker of illegitimate influence (Hanell et al. 2025). |
+| **Illegitimate political influence** | Pressure on library practice exerted outside formal, democratically agreed channels, whether by an official going around the process or by a member of the public. Rare in the survey data, and consequential anyway. |
+| **Construction of fear** | Wodak's account of how radical right rhetoric builds a threatening "them" against a besieged "us." The authors extend it: fear also operates on the people defending pluralism. |
+| **Anticipatory self-censorship** | Libraries dropping or never proposing programming because of rumor and perceived climate rather than any actual threat; the article's sharpest empirical finding. |
+| **Post-political condition** | Decades of cross-party consensus in Swedish cultural policy that removed genuine ideological argument from the sector, leaving the opening the radical right walked into. |
+| **Post-neutrality librarianship** | The position that professional neutrality is untenable once the profession's own values are politically contested, and that self-reflexivity replaces it. |
+| **Canary metaphor** | Hanell et al.'s framing of public libraries as early indicators of democratic strain, registering political distress before other institutions do. |
 
 All terms from all sixteen weeks are collected in the [Glossary](../glossary.md).
 
@@ -33,7 +38,9 @@ These are written for **Perusall**. Each one points at something specific and ea
 4. In §4 the authors say the framework needs under-represented perspectives and, in the same section, that "Ethics is not the preserve of a single continent or culture." Argue whether those are consistent.
 5. The authors treat adoption by AI4People, the EU High-Level Expert Group, and the OECD as evidence of impact. Argue the opposite reading: that convergence among institutions with overlapping membership is evidence of a closed conversation.
 6. Annotate the "canary" metaphor in Hanell et al. Does it strengthen the case for protecting libraries, or accept a role (dying first as a public service) that no profession should accept?
-7. Compare UNESCO's *fairness and non-discrimination* principle with Floridi and Cowls's *justice*. Where do they diverge most, and which is more usable by a working librarian?
+7. More than 80 percent of Swedish library managers said their relationship with politicians works well across all three surveys, and the same data show programming being dropped out of anticipated hostility. Argue whether that first number is evidence of institutional health or evidence that the survey cannot see what is actually happening.
+8. In the Conclusions, Hanell et al. say some librarians are "hampered by an understanding of their professional role as being neutral." Take a position on whether the ALA Code of Ethics, as you have read it this semester, equips an American librarian to do what these authors want, or produces exactly the paralysis they describe. Name the provision you are relying on.
+9. Compare UNESCO's *fairness and non-discrimination* principle with Floridi and Cowls's *justice*. Where do they diverge most, and which is more usable by a working librarian?
 
 ---
 

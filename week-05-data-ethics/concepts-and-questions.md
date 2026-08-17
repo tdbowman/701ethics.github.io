@@ -18,6 +18,11 @@
 | **Auditability** | NISO Principle 12's requirement of periodic independent review with results available to libraries on request; the mechanism the vendor reports test. |
 | **Information hazard** | Yoose's term, used by Salo: published work documenting unethical practice legitimizes that practice for future researchers, reviewers, and editors. |
 | **Transparency agent** | Lyon's term for the professional role (data librarian, archivist, steward) that enacts transparency within the research lifecycle. |
+| **Technology refusal** | Treating the decision to decline, disable, or leave a platform as a legitimate outcome of library instruction, taught with the same care as adoption (Cyrus 2026). |
+| **The neutrality fiction** | The belief that platforms are "just tools" whose ethics depend only on use. Cyrus argues the default choice, signing a patron up for Gmail, is already a position. |
+| **Data brokers** | Firms that buy, aggregate, and resell personal information gathered by consumer platforms. They sit outside any library contract, which is why Cyrus teaches patrons to find and remove their own records. |
+| **Passive programming** | Instruction delivered through the environment rather than a class: privacy-configured public computers, a changed default search engine, signage explaining the change. |
+| **Enshittification** | Doctorow's term, borrowed by Cyrus, for the decay of a platform's usefulness to users as it extracts more value from them over time. |
 
 All terms from all sixteen weeks are collected in the [Glossary](../glossary.md).
 
@@ -33,7 +38,10 @@ These are written for **Perusall**. Each one points at something specific and ea
 4. Yoose and Shockey argue reading 200 third-party policies is beyond any library's capacity. Is the right response to demand fewer third parties, build shared consortial audit capacity, or stop treating vendor policy as the site of accountability? Defend one.
 5. NISO was drafted with Elsevier, ProQuest, EBSCO, and Ex Libris at the table, and Yoose and Shockey audit two of those companies' platforms against principles they helped write. Mark a passage in NISO you think was softened by that composition, and explain your reading of the language.
 6. Salo argues publishers are "the last line of defense." Is placing enforcement with journal editors realistic, or does it relocate an unfunded mandate? What would a *C&RL* data-ethics screening actually require?
-7. Compare Lyon's transparency agent with Salo's finding that library researchers collected race/ethnicity in 27 projects and gender in 34, mostly without documented deidentification. Can one profession hold both roles, and what institutional change would make that possible?
+7. Cyrus writes that libraries should facilitate rejection of technology "just as much as" adoption (p. 2). Take her opening email scenario and argue the other side: a patron under deadline needs an address today, and Protonmail adds friction to a task they did not choose. At what point does offering the harder option stop serving the patron and start serving your values at their expense?
+8. Cyrus's evidence is one librarian's programs at one small rural library. Mark the passage where she moves from that evidence to a claim about patrons generally. Is the inference sound, and what would you need to see to make the demand claim hold outside Bangor?
+9. Yoose and Shockey show you the leverage a library has as an institution; Cyrus shows what one worker can do with a browser install and a script. Which is the better use of a scarce hour, auditing a vendor contract or teaching a data broker opt-out class? Defend your answer with a passage from each.
+10. Compare Lyon's transparency agent with Salo's finding that library researchers collected race/ethnicity in 27 projects and gender in 34, mostly without documented deidentification. Can one profession hold both roles, and what institutional change would make that possible?
 
 ---
 
