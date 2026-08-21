@@ -73,7 +73,7 @@ The full Fall 2026 reading list in APA 7, by block and week. Entries marked 🗂
 
 - 🗂️ International Federation of Library Associations and Institutions. (2021). *Libraries, development and the United Nations 2030 Agenda* (Revised version, March 2021). IFLA. (First published October 2015.)
 - 🗂️ Britz, J. J. (2004). To know or not to know: A moral reflection on information poverty. *Journal of Information Science, 30*(3), 192–204. https://doi.org/10.1177/0165551504044666
-- Ashiq, M., Rehman, S. U., & Warraich, N. F. (2025). Reimagining academic libraries through a social justice lens: A phenomenological qualitative study of challenges and strategies in a developing country context. *Information Development*. Advance online publication, July 21, 2025. https://doi.org/10.1177/02666669251361022
+
 
 ## Block 4: Emerging Technologies & Future Ethics
 
