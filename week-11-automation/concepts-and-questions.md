@@ -11,13 +11,13 @@
 | **Responsible operations** | individual, organizational, and community capacities supporting responsible use of data science, machine learning, and AI; Padilla's guiding principle, adapted from Rumman Chowdhury. |
 | **Constructive dissent** | a governance culture where staff are empowered to object and protected when they do; rules of ethical use are self-defeating without it (Padilla, p. 8). |
 | **Managing bias** | the alternative to debiasing, since elimination is impossible and would itself be a bias; requires diverse staffing because "monoculture cannot effectively manage bias" (p. 9). |
-| **Generous tools** | tools designed so users of varying skill can contribute to, use, or challenge algorithmic methods, preventing siloed expertise (pp. 11–12). |
+| **Generous tools** | tools that let users of varying skill levels contribute to the improvement and/or use of algorithmic methods, preventing siloed expertise (pp. 11–12). |
 | **Distributed data science fluency** | enough methodological literacy across all roles that projects can be championed *or challenged* from anywhere (p. 11). |
 | **Machine-actionable collections** | collections optimized for computational use in form, format, integrity, access method, and rights; tied to the CARE Principles and the Santa Barbara Statement. |
 | **Training-data provenance** | recording where training data came from, which Padilla calls "a pervasive lack that compromises potential applications" (p. 10). |
 | **Rights assessment at scale** | the "wicked problem" of clearing rights across millions of works; legal use does not equal ethical use (p. 17). |
-| **Industry 5.0** | Oladokun et al.'s framing, in which the defining question is human–robot collaboration rather than replacement. |
-| **Arrival technology** | Enis's framing of generative AI as already-present and society-reshaping; a move worth naming, because it converts a contestable adoption decision into an adaptation problem. |
+| **Industry 5.0** | Oladokun et al.'s framing, in which the defining question is human–robot collaboration. |
+| **Arrival technology** | Chris Rosser and Michael Hanegan's framing, as reported by Enis, of generative AI as already-present and society-reshaping; a move worth naming, because it converts a contestable adoption decision into an adaptation problem. |
 
 All terms from all sixteen weeks are collected in the [Glossary](../glossary.md).
 

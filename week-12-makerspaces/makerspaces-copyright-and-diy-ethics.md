@@ -13,12 +13,12 @@ thumbnail: images/block-4-banner.png
 
 The makerspace looks like a detour after two weeks of algorithms. It is the same problem with the abstraction removed.
 
-Every question Block 4 has asked has a physical answer in a room with a 3D printer in it: who decides what a tool is for, who bears the risk when it produces something harmful, who owns what comes out of a machine trained on other people's work. When the University of Minnesota Libraries write that they "will not 3D print or otherwise fabricate any kind of part for use in actual functional weaponry," they are doing content moderation, and unlike a platform they do it at a desk, to a person's face, with a name attached. When Syracuse bans weapons, accessories, and replicas, and Maryland refuses projects containing "symbols or words that can be deemed offensive or inappropriate by members of the campus community," they draw intellectual-freedom lines that would be ferociously contested if the medium were a book.
+Every question Block 4 has asked has a physical answer in a room with a 3D printer in it: who decides what a tool is for, who bears the risk when it produces something harmful, who owns what comes out of a machine trained on other people's work. When the University of Minnesota Libraries write that they "will not 3D print or otherwise fabricate any kind of part for use in actual functional weaponry," they are doing content moderation, and unlike a platform they do it at a desk, to a person's face, with a name attached. When Syracuse prohibits "production of weapons, weapon accessories, or weapon replicas of any kind," and Maryland refuses projects containing "symbols or words that can be deemed offensive or inappropriate by members of the campus community," they draw intellectual-freedom lines that would be ferociously contested if the medium were a book.
 
 ### 🎯 What You'll Learn
 
 - Use Purpose / People / Pieces and Parts to evaluate a makerspace as a designed environment
-- Read five real codes of conduct as primary sources about power and access
+- Read four real codes of conduct as primary sources about power and access
 - Compare IFLA and the Library Copyright Alliance on AI, and locate the actual disagreement
 - Decide when staff discretion turns into prior restraint
 
@@ -39,7 +39,7 @@ Annotate everything in **Perusall**. The Block 4 scenario, *AI Implementation De
 | Reading | Source | Notes |
 |---------|--------|-------|
 | [Making + learning in museums and libraries: A practitioner's guide and framework](https://www.imls.gov/sites/default/files/publications/documents/makinglearning-museumslibraries-practitionersguideframework.pdf) 🗂️ | Children's Museum of Pittsburgh & IMLS (2016) | This is the working design instrument for library makerspaces, and the block's clearest example of a framework that shapes practice while claiming only to prompt reflection. |
-| Re-making the library makerspace: Critical theories, reflections, and practices | Melo & Nichols (2020) | A block about emerging technology needs at least one text whose method is to interrogate the enthusiasm rather than manage it, and the makerspace is where "innovation" is most visibly a value claim wearing equipment. |
+| From needs analysis to power analysis: A framework to examine & broker power in makerspaces (Ch. 4 in Melo & Nichols, Eds., *Re-making the library makerspace*) | Marshall & Melo (2019) | It turns the critique of the maker movement into a method you can run on Monday, and its questions travel to a vendor contract and to the report about you. |
 | [https://research.dom.edu/innovationlab; University of Minnesota Libraries](https://research.dom.edu/c.php?g=1147226&p=10638398) | Library makerspace codes of conduct and use policies [primary source set]: Dominican University WeatherTech Innovation Lab (n.d.), *Makerspaces code of conduct* | You will write, apply, or be governed by documents exactly like these. |
 | [IFLA statement on copyright and artificial intelligence (AI)](https://www.ifla.org/news/realising-potential-supporting-users-ifla-statement-on-copyright-and-artificial-intelligence/) | IFLA (2025) | The block began with AI as an ethics problem and must end with it as a property problem. |
 
@@ -47,7 +47,7 @@ Annotate everything in **Perusall**. The Block 4 scenario, *AI Implementation De
 
 ### 🗝️ Key Terms This Week
 
-*Purpose / People / Pieces and Parts · Learning Practices of Making · Text and data mining exception · Fair use for ingestion · De minimis contribution · FAIR and CARE principles · AI-ready collections · Staff discretion clause · Prior restraint vs. service refusal · Copyright as a blunt instrument*: defined in [Concepts & Questions](concepts-and-questions.md) and collected in the [Glossary](../glossary.md).
+*Purpose / People / Pieces and Parts · Learning Practices of Making · Text and data mining exception · Fair use for ingestion · De minimis contribution · FAIR and CARE principles · AI-ready collections · Needs analysis vs. power analysis · Staff discretion clause · Prior restraint vs. service refusal · Copyright as a blunt instrument*: defined in [Concepts & Questions](concepts-and-questions.md) and collected in the [Glossary](../glossary.md).
 
 ---
 

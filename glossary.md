@@ -1,6 +1,6 @@
 # Glossary 🗝️
 
-Every key term from the sixteen weeks, 177 in all, drawn from the readings themselves. The **Week** column links back to where the term is introduced.
+Every key term from the sixteen weeks, 178 in all, drawn from the readings themselves. The **Week** column links back to where the term is introduced.
 
 ---
 
@@ -21,7 +21,7 @@ Every key term from the sixteen weeks, 177 in all, drawn from the readings thems
 | **Anticipatory self-censorship** | Libraries dropping or never proposing programming because of rumor and perceived climate rather than any actual threat; the article's sharpest empirical finding. | [Week 14](week-14-global-citizenship/concepts-and-questions.md) |
 | **Archival data** | Data that can no longer earn its keep on readily accessible storage, so it moves down the storage hierarchy to trade slower access for lower cost. Rosenthal's definition makes archiving a budget decision before it is a technology decision (Rosenthal 2025). | [Week 15](week-15-preservation/concepts-and-questions.md) |
 | **Arm's length principle** | The Swedish convention that elected politicians set budgets and broad mandates while professionals decide programming and collections. Attempts to shorten that arm are the clearest marker of illegitimate influence (Hanell et al. 2025). | [Week 14](week-14-global-citizenship/concepts-and-questions.md) |
-| **Arrival technology** | Enis's framing of generative AI as already-present and society-reshaping; a move worth naming, because it converts a contestable adoption decision into an adaptation problem. | [Week 11](week-11-automation/concepts-and-questions.md) |
+| **Arrival technology** | Chris Rosser and Michael Hanegan's framing, as reported by Enis, of generative AI as already-present and society-reshaping; a move worth naming, because it converts a contestable adoption decision into an adaptation problem. | [Week 11](week-11-automation/concepts-and-questions.md) |
 | **Article 19 (UDHR)** | The right to seek, receive, and impart information regardless of frontiers, cited by both the IFLA Code and Knox as grounding intellectual freedom as a human right rather than a professional preference. | [Week 3](week-03-codes/concepts-and-questions.md) |
 | **Auditability** | NISO Principle 12's requirement of periodic independent review with results available to libraries on request; the mechanism the vendor reports test. | [Week 5](week-05-data-ethics/concepts-and-questions.md) |
 | **Autonomy** | the balance between decision-making power humans retain and power delegated to artificial agents, the risk being that growth in artificial autonomy undermines human flourishing (§3.3). | [Week 14](week-14-global-citizenship/concepts-and-questions.md) |
@@ -72,7 +72,8 @@ Every key term from the sixteen weeks, 177 in all, drawn from the readings thems
 | **Data sovereignty** | ALA's insistence that patron data, institutional data, local history, staff workflows, and usage logs remain under library, public-sector, or community control. | [Week 10](week-10-ai-ethics/concepts-and-questions.md) |
 | **Datafication** | Gstrein and Beaulieu's layered practice of rendering objects, relations, and interactions as data (community, forms of care, capacities, data), not reducible to any one technology. | [Week 4](week-04-privacy/concepts-and-questions.md) |
 | **De minimis contribution** | LCA's Principle 3 reasoning that any single work's contribution to an LLM is negligible, making per-work remuneration infeasible. | [Week 12](week-12-makerspaces/concepts-and-questions.md) |
-| **Deresponsibilisation** | diffusion of accountability when a decision emerges from an opaque process rather than a human author (Cox, pp. 205–206). | [Week 10](week-10-ai-ethics/concepts-and-questions.md) |
+| **Debiasing, and its limits** | Mannheimer et al.'s conclusion that removing bias, or "debiasing," is likely an unattainable goal and that transparency about known bias is the realistic commitment. Compare *managing bias* (Week 11). | [Week 10](week-10-ai-ethics/concepts-and-questions.md) |
+| **Deresponsibilisation** | diffusion of accountability when a decision emerges from an opaque process rather than a human author (Cox, p. 206). | [Week 10](week-10-ai-ethics/concepts-and-questions.md) |
 | **Derivative data** | standardized, well-documented, consistently formatted versions created for computational use while originals are preserved unaltered (ARA guidelines, pillar 3). | [Week 15](week-15-preservation/concepts-and-questions.md) |
 | **Designated public forum** | The status a library creates by opening meeting rooms; the 2019 Interpretation notes libraries need not offer them but incur forum obligations if they do. | [Week 2](week-02-intellectual-freedom/concepts-and-questions.md) |
 | **Dialogic engagement** | Drabinski's alternative to correction: teaching users at the reference desk and in the classroom to read the catalog as a biased text rather than navigate it as a neutral one. | [Week 8](week-08-social-justice/concepts-and-questions.md) |
@@ -121,7 +122,7 @@ Every key term from the sixteen weeks, 177 in all, drawn from the readings thems
 
 | Term | Definition | Week |
 |------|------------|------|
-| **Generous tools** | tools designed so users of varying skill can contribute to, use, or challenge algorithmic methods, preventing siloed expertise (pp. 11–12). | [Week 11](week-11-automation/concepts-and-questions.md) |
+| **Generous tools** | tools that let users of varying skill levels contribute to the improvement and/or use of algorithmic methods, preventing siloed expertise (pp. 11–12). | [Week 11](week-11-automation/concepts-and-questions.md) |
 | **Group privacy** | The claim that data harms increasingly attach to algorithmically constructed categories rather than individuals, so rights may need articulating at group level (§3.2.3). | [Week 4](week-04-privacy/concepts-and-questions.md) |
 
 ## H
@@ -139,7 +140,7 @@ Every key term from the sixteen weeks, 177 in all, drawn from the readings thems
 | **Imagination as a resource** | Ruha Benjamin's reframing, quoted by Baer, of imagination not as flights of fancy but as "a resource, a capacity, a muscle" for building alternative futures (Baer 2025, quoting Benjamin 2025). | [Week 16](week-16-futures/concepts-and-questions.md) |
 | **Imperfect solutions** | Gradual, decentralized, locally scoped actions that can be revised as conditions shift. The article's central defense, and probably the right form for your own commitments. | [Week 16](week-16-futures/concepts-and-questions.md) |
 | **Indirect action / direct action** | Winberry and Bishop's typology: steps that make change possible versus specific steps that implement it. | [Week 8](week-08-social-justice/concepts-and-questions.md) |
-| **Industry 5.0** | Oladokun et al.'s framing, in which the defining question is human–robot collaboration rather than replacement. | [Week 11](week-11-automation/concepts-and-questions.md) |
+| **Industry 5.0** | Oladokun et al.'s framing, in which the defining question is human–robot collaboration. | [Week 11](week-11-automation/concepts-and-questions.md) |
 | **Information hazard** | Yoose's term, used by Salo: published work documenting unethical practice legitimizes that practice for future researchers, reviewers, and editors. | [Week 5](week-05-data-ethics/concepts-and-questions.md) |
 | **Information poverty** | Britz: a situation in which individuals or communities lack the skills, abilities, or material means to access, interpret, and apply information, compounded by a lack of essential information and weak infrastructure. | [Week 9](week-09-global/concepts-and-questions.md) |
 | **Insiders and outsiders** | from Chatman via Britz: information poverty as a function of position within a community's shared knowledge base and symbols, which is why two people in the same room can differ in it. | [Week 9](week-09-global/concepts-and-questions.md) |
@@ -179,7 +180,6 @@ Every key term from the sixteen weeks, 177 in all, drawn from the readings thems
 |------|------------|------|
 | **Machine-actionable collections** | collections optimized for computational use in form, format, integrity, access method, and rights; tied to the CARE Principles and the Santa Barbara Statement. | [Week 11](week-11-automation/concepts-and-questions.md) |
 | **Managing bias** | the alternative to debiasing, since elimination is impossible and would itself be a bias; requires diverse staffing because "monoculture cannot effectively manage bias" (p. 9). | [Week 11](week-11-automation/concepts-and-questions.md) |
-| **Managing bias vs. debiasing** | Mannheimer et al.'s conclusion that removing bias is unattainable and that transparency about known bias is the realistic commitment. | [Week 10](week-10-ai-ethics/concepts-and-questions.md) |
 | **Market for principles** | the failure mode in which organizations select among ethical frameworks for convenience rather than merit (§1, citing Floridi 2019b). | [Week 14](week-14-global-citizenship/concepts-and-questions.md) |
 | **Meaningful access** | the IFLA toolkit's operating term: space, staff, skills, and content together, as distinct from availability or connectivity alone. | [Week 9](week-09-global/concepts-and-questions.md) |
 | **Meta-autonomy / decide-to-delegate** | the model in which humans retain the power to decide *which* decisions to take, with any delegation overridable in principle (§3.3). | [Week 14](week-14-global-citizenship/concepts-and-questions.md) |
@@ -190,6 +190,7 @@ Every key term from the sixteen weeks, 177 in all, drawn from the readings thems
 
 | Term | Definition | Week |
 |------|------------|------|
+| **Needs analysis vs. power analysis** | Marshall and Melo's distinction: asking what a community needs assumes that identifying needs brings equity; a power analysis examines funding, decision-making, policies, hiring, training, and the arrangement of the space (p. 86). | [Week 12](week-12-makerspaces/concepts-and-questions.md) |
 | **Neutrality (IFLA Clause 5)** | A commitment to an unbiased stance in collection, access, and service, defended as producing the most balanced collection achievable. Compare Knox's evidence that this is not an official ALA value. | [Week 3](week-03-codes/concepts-and-questions.md) |
 | **Neutrality as a decision criterion** | from Bailund et al.: an undefined standard invoked to reject heading proposals, functioning as a one-directional filter against vocabulary that names injustice. | [Week 8](week-08-social-justice/concepts-and-questions.md) |
 | **Non-maleficence** | preventing harm, centrally through privacy protection, security, and capability caution; logically distinct from beneficence (§3.2). | [Week 14](week-14-global-citizenship/concepts-and-questions.md) |
@@ -240,7 +241,7 @@ Every key term from the sixteen weeks, 177 in all, drawn from the readings thems
 | **Smartphone dependence** | Pew's constructed category for adults owning a smartphone but no home broadband: 16% of US adults in 2025, about a third of households under $30,000 against 4% over $100,000. | [Week 6](week-06-digital-divide/concepts-and-questions.md) |
 | **Social model of disability** | from the ALA Ableism Q&A: locating disability in environmental and institutional barriers rather than individual bodies, which relocates the duty to remove them onto the organization. | [Week 7](week-07-edib/concepts-and-questions.md) |
 | **Social responsibility** | The claim, in IFLA's preamble and ALA Principle 9, that because information service serves social, cultural, and economic well-being, information workers bear obligations beyond service delivery. | [Week 3](week-03-codes/concepts-and-questions.md) |
-| **Staff discretion clause** | the provision, present in every makerspace policy examined, reserving to staff the final decision on what may be made; where written policy becomes situated judgment. | [Week 12](week-12-makerspaces/concepts-and-questions.md) |
+| **Staff discretion clause** | the provision routing the final decision on what may be made through staff: a general right to refuse (Maryland), prior approval (Syracuse), or consultation (Minnesota); where written policy becomes situated judgment. | [Week 12](week-12-makerspaces/concepts-and-questions.md) |
 | **Structural vs. individual remedy** | the recurring choice across the week: fix the system, or fix the case in front of you. Morales et al. and Bailund et al. argue structurally; Drabinski deliberately relocates the remedy to the individual encounter. | [Week 8](week-08-social-justice/concepts-and-questions.md) |
 | **System cost versus media cost** | Tape cartridges are about 16 percent of a TS4300's capital cost, and drives, robotics, power, cooling, space, and staff are the rest, which is why archiving only pencils out at data-center scale. | [Week 15](week-15-preservation/concepts-and-questions.md) |
 

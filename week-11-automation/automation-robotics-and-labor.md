@@ -39,7 +39,7 @@ Annotate everything in **Perusall**. The Block 4 scenario, *AI Implementation De
 | Reading | Source | Notes |
 |---------|--------|-------|
 | [Responsible operations: Data science, machine learning, and AI in libraries (OCLC Research Position Paper)](https://doi.org/10.25333/xk7z-9g97) 🗂️ | Padilla (2019) | Padilla's paper is the framing text for the whole block. |
-| [The rise of robots in libraries: Essential skills and knowledge for librarians in Industry 5.0](https://doi.org/10.1177/18758789261443981) | Oladokun et al. (2026), *Information Services and Use* | It is the most current picture of what "robots in libraries" concretely means, and the one Block 4 reading whose center of gravity is not North American or European. |
+| [The rise of robots in libraries: Essential skills and knowledge for librarians in Industry 5.0](https://doi.org/10.1177/18758789261443981) | Oladokun et al. (2026), *Information Services and Use* | It is the most current picture of what "robots in libraries" concretely means. |
 | [AI influencers: Libraries guiding AI use](https://www.libraryjournal.com/story/ai-influencers-libraries-guiding-ai-use) | Enis (2025), *Library Journal* | The profession's arguments do not reach practitioners through peer-reviewed literature; they reach them through Library Journal. |
 
 🗂️ = the PDF is already in the course project folder. See [References](../references.md) for full APA citations.

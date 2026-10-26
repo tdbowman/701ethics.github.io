@@ -6,7 +6,7 @@ This book was rebuilt for Fall 2026 from the previous reading list plus the curr
 
 ## The five unresolved items, resolved
 
-Every reading assigned this semester has been verified against a published record. Two summaries, noted below, were written without access to the full text; every other summary in this book was written from the source itself.
+Every reading assigned this semester has been verified against a published record. One summary, noted below, was written without access to the full text; every other summary in this book was written from the source itself.
 
 Five items on the revision list were unresolved in the first build of this book. All five are now settled:
 
@@ -20,9 +20,9 @@ Five items on the revision list were unresolved in the first build of this book.
 
 ---
 
-## Read the source before you quote it (2)
+## Read the source before you quote it (1)
 
-These two are correctly cited and correctly placed. The summaries were written from published abstracts, reviews, and tables of contents rather than from the full text, because neither could be obtained openly. Treat their entries as orientation and read the source before citing specifics.
+This one is correctly cited and correctly placed. Its summary was written from the published abstract and metadata rather than the full text. The article is open access (CC BY-NC), so read it before citing specifics.
 
 **Oladokun et al. (2026)**, in [Week 11](week-11-automation/the-readings.md)
 
@@ -30,14 +30,6 @@ These two are correctly cited and correctly placed. The summaries were written f
 
 :::{warning} Verification note
 NEW for Fall 2026. Replaces Tella (2020) and Asemi, Ko & Nowkarizi (2021). Verified: title, five authors, journal, volume 46, issue 3, pages 47–57, DOI, publication dates. STATUS: contents partially unverified. The full text was not read in preparing this chapter; the account below derives from the published abstract and metadata. Read the article before citing specifics.
-:::
-
-**Melo & Nichols (2020)**, in [Week 12](week-12-makerspaces/the-readings.md)
-
-> Melo, M., & Nichols, J. T. (Eds.). (2020). Re-making the library makerspace: Critical theories, reflections, and practices. Library Juice Press.
-
-:::{warning} Verification note
-NEW for Fall 2026. Replaces Fleming (2015) on OER/makerspaces. Verified: editors Maggie Melo and Jennifer T. Nichols, Library Juice Press, 2020, ix + 316 pp., ISBN-13 978-1-63400-081-9 (reviewed in Public Services Quarterly, 17(3)). Correction to the reconstructed list: this is a critical makerspace collection, not an OER text. The substitution changes the topic, not just the citation. STATUS: contents unverified. The volume was not read in preparing this chapter, so no chapter-level claims are made. Read the assigned chapters in Perusall; treat what follows as orientation only.
 :::
 
 ---
@@ -55,7 +47,7 @@ NEW for Fall 2026. Replaces Fleming (2015) on OER/makerspaces. Verified: editors
 | Oladokun (2026) | **Five authors**, *Information Services and Use* 46(3), 47–57. |
 | Yoose (2024) | **Two authors**: Yoose & Shockey, published by SPARC. |
 | Ashiq | **2025**, not 2026. *Information Development*, advance online publication, 21 July 2025. |
-| Melo & Nichols (2020) | *Re-making the Library Makerspace* (Library Juice Press) is a **critical edited volume, not an OER text**. Replacing Fleming with it changes what Week 12 is about. |
+| Melo & Nichols (2020) | *Re-making the Library Makerspace* (Library Juice Press) is a **critical edited volume, not an OER text**. Week 12 now assigns one chapter, **Marshall & Melo (2019)**, "From needs analysis to power analysis" (pp. 83–97), read in full. The DU ebook dates the volume © 2019. |
 | Making + Learning framework | **2016** per the IMLS record, not 2017. |
 | Pew, January 2026 | A short read (McClain & Bishop, 8 Jan 2026), not a report; drawn from NPORS fielded Feb–Jun 2025, n = 5,022. |
 | Hepler & Horalek | The previous list pointed both assigned chapter ranges at the Chapter 1 URL. Per-chapter links are given in Weeks 1 and 2. |
@@ -68,12 +60,29 @@ NEW for Fall 2026. Replaces Fleming (2015) on OER/makerspaces. Verified: editors
 
 ---
 
+## Block 4 corrections (October 2026)
+
+A source check made while building the Block 4 slide decks found these errors in the first edition. All are fixed in the text.
+
+| Week | Correction |
+|------|------------|
+| 10 | ALA's fifth value is **Diversity, Equity, Inclusion, and Access**; the sustainability passage asks vendors for **carbon impact** estimates as a condition of **procurement** evaluation. |
+| 10 | ARL's principles are **two** pages, and Principle 1 says **foster** digital literacy. |
+| 10 | "Managing bias" is Padilla's term (after Coleman); Mannheimer et al. write about **debiasing**. The glossary entry is renamed. Classification ties text mining and machine learning at 11. |
+| 11 | "Arrival technology" and "the largest reskilling effort in human history" belong to **Chris Rosser and Michael Hanegan**, as Enis reports them. The article does not say "collective bargaining." |
+| 11 | Oladokun et al. is **open access**; 59 records retrieved, 27 included. "Rather than replacement" was this book's gloss and is now marked as such. Generous tools are about contributing to the improvement and/or use of methods; "challenged" belongs to distributed fluency. |
+| 12 | Syracuse prohibits the "production of weapons, weapon accessories, or weapon replicas of any kind"; no Equipment Use Agreement, PPE rule, or coursework exclusion appears on its policy page. Minnesota's Walter Library makerspace is open to everyone. Only Maryland reserves a general right to refuse. |
+| 12 | Making + Learning reports more than 50 interviews **and** site visits combined (30 sites visited). LCA's principles are an opening statement plus six points; its last point turns on prompts that "sufficiently controlled the AI." |
+| 12 | Melo & Nichols replaced by one chapter, **Marshall & Melo (2019)**, read in full. |
+
+---
+
 ## What the marks mean
 
 | Mark | Meaning |
 |------|---------|
 | 🗂️ | The PDF is already in the course project folder, and the summary was written from the full text. |
-| ⚠️ Verification note | The citation is confirmed but the full text was not read, because it is paywalled and no open copy exists. Two entries carry this mark. |
+| ⚠️ Verification note | The citation is confirmed but the full text was not read, One entry carries this mark. |
 
 ---
 

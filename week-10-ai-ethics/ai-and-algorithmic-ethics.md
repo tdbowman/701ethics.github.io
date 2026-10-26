@@ -48,7 +48,7 @@ Annotate everything in **Perusall**. The Block 4 scenario, *AI Implementation De
 
 ### 🗝️ Key Terms This Week
 
-*Algorithmic bias · Managing bias vs. debiasing · Ethics washing · Deresponsibilisation · Explainability · Human-in-the-loop · Chilling effect · Data sovereignty · Environmental cost of inference · Unseen labor*: defined in [Concepts & Questions](concepts-and-questions.md) and collected in the [Glossary](../glossary.md).
+*Algorithmic bias · Debiasing, and its limits · Ethics washing · Deresponsibilisation · Explainability · Human-in-the-loop · Chilling effect · Data sovereignty · Environmental cost of inference · Unseen labor*: defined in [Concepts & Questions](concepts-and-questions.md) and collected in the [Glossary](../glossary.md).
 
 ---
 

@@ -9,9 +9,9 @@
 | Term | What it means |
 |------|---------------|
 | **Algorithmic bias** | biased outcomes arising from the algorithm or from historic data reflecting past inequalities, which AI reproduces (Cox, p. 205); ARL's Principle 2 frames it as "distortions" inherent to all AI. |
-| **Managing bias vs. debiasing** | Mannheimer et al.'s conclusion that removing bias is unattainable and that transparency about known bias is the realistic commitment. |
+| **Debiasing, and its limits** | Mannheimer et al.'s conclusion that removing bias, or "debiasing," is likely an unattainable goal and that transparency about known bias is the realistic commitment. Padilla's name for the alternative, managing bias, is a Week 11 term. |
 | **Ethics washing** | publishing AI ethics principles as reputational response, motivated by a desire to avoid regulation (Cox, p. 206). |
-| **Deresponsibilisation** | diffusion of accountability when a decision emerges from an opaque process rather than a human author (Cox, pp. 205–206). |
+| **Deresponsibilisation** | diffusion of accountability when a decision emerges from an opaque process rather than a human author (Cox, p. 206). |
 | **Explainability** | the demand that a system's decisions be intelligible and accountable; ARL ties it to Explainable AI and the "right to an explanation." |
 | **Human-in-the-loop** | human intervention to support accuracy; the second most frequent "ethics" code in the literature, which Mannheimer et al. reclassify as technical. |
 | **Chilling effect** | the climate in which patrons do not feel safe searching for or reading what they want (Cox, p. 208). |
@@ -38,7 +38,7 @@ These are written for **Perusall**. Each one points at something specific and ea
 
 ## 🔗 Connections
 
-- **Scenario:** This week supplies the evaluation apparatus for the chatbot branch and the bias simulations. Cox's scenarios 3 and 6 are near-exact rehearsals of the chatbot and recommender decisions; ACRL's Analysis and Evaluation competencies give you criteria to defend a recommendation; the ALA guidance's specific vendor disclosures (carbon estimates, data-center energy sources, water usage) turn "environmental cost" into a procurement demand in the cost-benefit branch.
+- **Scenario:** This week supplies the evaluation apparatus for the chatbot branch and the bias simulations. Cox's scenarios 3 and 6 are near-exact rehearsals of the chatbot and recommender decisions; ACRL's Analysis and Evaluation competencies give you criteria to defend a recommendation; the ALA guidance's specific vendor disclosures (carbon impact estimates, data-center energy sources, water usage) turn "environmental cost" into a procurement demand in the cost-benefit branch.
 - **Final essay:** These readings let you argue *against a judgment about yourself* rather than merely dislike it. Mannheimer et al. give you the move of asking what a system counts as ethics and showing its categories are technical ones in ethical clothing. Cox gives you validity: learning data "consists of what can be measured and is not often actually direct measurement of learning" (p. 208), which applies to any score derived from your annotations. ARL Principle 3 gives you a disclosure standard; Principle 4 grounds for asking which human reviewed it. ALA's intellectual-freedom framing, that systems threaten it when they obscure how information is ranked, generalizes cleanly to the ranking of you.
 - **Threads forward:** Week 11 takes the labor question ALA opens and makes it the whole subject. Week 12 stress-tests ARL's Principle 6 against IFLA's competing copyright position.
 
